@@ -1,0 +1,224 @@
+unidade,area,curso,fuvest_ac,fuvest_ep,fuvest_ppi,fuvest,enem_ac,enem_ep_l1,enem_ep_l3,enem_ep,enem_ppi_l2,enem_ppi_l4,enem_ppi,enem
+EACH,E,Bacharelado em Sistemas de Informação,28,10,4,42,2,0,8,8,0,8,8,18
+EACH,E,Bacharelado em Sistemas de Informação,56,21,7,84,4,0,16,16,0,16,16,36
+EACH,E,Licenciatura em Ciências da Natureza,30,9,3,42,0,0,9,9,0,9,9,18
+EACH,B,Bacharelado em Educação Física e Saúde,20,14,8,42,10,4,0,4,4,0,4,18
+EACH,B,Bacharelado em Biotecnologia,30,11,1,42,0,0,7,7,0,11,11,18
+EACH,B,Curso de Graduação em Gerontologia,24,12,6,42,6,0,6,6,0,6,6,18
+EACH,B,Curso de Graduação em Obstetrícia,30,12,0,42,0,3,3,6,3,9,12,18
+EACH,H,Bacharelado em Têxtil e Moda,24,12,6,42,6,3,3,6,3,3,6,18
+EACH,H,Bacharelado em Lazer e Turismo,30,9,3,42,0,9,0,9,9,0,9,18
+EACH,H,Bacharelado em Lazer e Turismo,30,9,3,42,0,9,0,9,9,0,9,18
+EACH,H,Bacharelado em Gestão Ambiental,27,11,4,42,3,0,7,7,0,8,8,18
+EACH,H,Bacharelado em Gestão Ambiental,27,11,4,42,3,0,7,7,0,8,8,18
+EACH,H,Gestão de Políticas Públicas,24,12,6,42,6,3,3,6,3,3,6,18
+EACH,H,Gestão de Políticas Públicas,24,12,6,42,6,3,3,6,3,3,6,18
+EACH,H,Marketing,21,13,8,42,9,0,5,5,0,4,4,18
+EACH,H,Marketing,21,13,8,42,9,0,5,5,0,4,4,18
+EACH,,Subtotal Unidad./formse,446,191,77,714,64,34,82,116,34,92,126,306
+ECA,H,Artes Cênicas - Bach. e Lic.,15,9,6,30,0,0,0,0,0,0,0,0
+ECA,H,Artes Visuais - Bach. e Lic.,15,9,6,30,0,0,0,0,0,0,0,0
+ECA,H,Música - Bach. e Lic.,25,15,10,50,0,0,0,0,0,0,0,0
+ECA,H,Biblioteconomia,8,4,2,14,2,1,1,2,1,1,2,6
+ECA,H,Biblioteconomia,8,4,2,14,2,1,1,2,1,1,2,6
+ECA,H,Turismo,13,6,2,21,2,3,0,3,4,0,4,9
+ECA,H,Bach. Com. Social: Publicidade e Propaganda,8,4,2,14,2,0,2,2,0,2,2,6
+ECA,H,Bach. Com. Social: Publicidade e Propaganda,12,6,3,21,3,0,3,3,0,3,3,9
+ECA,H,Bach. Com. Social: Editoração,7,3,0,10,0,2,0,2,0,3,3,5
+ECA,H,Bacharelado em Jornalismo,15,6,0,21,0,3,0,3,0,6,6,9
+ECA,H,Bacharelado em Jornalismo,15,6,0,21,0,3,0,3,0,6,6,9
+ECA,H,Bacharelado em Relações Públicas,8,4,2,14,2,0,2,2,0,2,2,6
+ECA,H,Bacharelado em Relações Públicas,12,6,3,21,3,0,3,3,0,3,3,9
+ECA,H,Curso Superior do Audiovisual,17,6,1,24,0,1,4,5,1,5,6,11
+ECA,H,Licenciatura em Educomunicação,13,5,3,21,2,0,4,4,0,3,3,9
+ECA,,Subtotal Unidade,191,93,42,326,18,14,20,34,7,35,42,94
+EEFE,B,Educação Física e Esporte – Educação Física (Bach. e Lic.) e Esporte (Bach.),50,20,10,80,0,0,11,11,0,9,9,20
+EEFE,,Subtotal Unidade,50,20,10,80,0,0,11,11,0,9,9,20
+EEFERP,B,Educação Física,27,8,7,42,3,0,10,10,0,5,5,18
+EEFERP,,Subtotal Unidade,27,8,7,42,3,0,10,10,0,5,5,18
+EE,B,Enfermagem - Bach. e Lic.,27,19,10,56,13,0,6,6,0,5,5,24
+EE,,Subtotal Unidade,27,19,10,56,13,0,6,6,0,5,5,24
+EERP,B,Enfermagem – Bacharelado,40,15,7,62,0,0,10,10,2,6,8,18
+EERP,B,Enfermagem – Bach. e Lic.,25,9,5,39,0,0,6,6,1,4,5,11
+EEL,E,Engenharia de Materiais,18,7,5,30,2,4,1,5,2,1,3,10
+EEL,E,Engenharia Bioquímica,18,8,4,30,2,3,1,4,3,1,4,10
+EEL,E,Engenharia Química,32,17,11,60,8,4,4,8,2,2,4,20
+EEL,E,Engenharia Química,32,17,11,60,8,4,4,8,2,2,4,20
+EEL,E,Engenharia Ambiental,19,9,6,34,1,2,1,3,1,1,2,6
+EEL,E,Engenharia de Produção,18,6,6,30,2,3,3,6,1,1,2,10
+EEL,E,Engenharia Física,18,7,5,30,2,4,1,5,2,1,3,10
+EEL,,Subtotal Unidade,155,71,48,274,25,24,15,39,13,9,22,86
+EESC,E,Engenharia Civil,26,13,7,46,4,1,4,5,1,4,5,14
+EESC,E,Engenharia Elétrica (Ênfase em Eletrônica),21,11,6,38,4,1,3,4,1,3,4,12
+EESC,E,Engenharia Elétrica (Ênfase em Sistemas de Energia e Automação),21,11,6,38,4,1,3,4,1,3,4,12
+EESC,E,Engenharia Mecânica,21,11,6,38,4,1,3,4,1,3,4,12
+EESC,E,Engenharia de Produção,21,11,6,38,4,1,3,4,1,3,4,12
+EESC,E,Engenharia Aeronáutica,17,9,5,31,3,1,2,3,1,2,3,9
+EESC,E,Engenharia Ambiental,17,9,5,31,3,1,2,3,1,2,3,9
+EESC,E,Engenharia Mecatrônica,21,11,6,38,4,1,3,4,1,3,4,12
+EESC,E,Engenharia de Materiais e Manufatura,21,11,6,38,4,1,3,4,1,3,4,12
+EESC/ICMC,E,Engenharia de Computação,21,11,6,38,4,1,3,4,1,3,4,12
+EESC,,Subtotal Unidade,207,108,59,374,38,10,29,39,10,29,39,116
+EP,E,Engenharia Ambiental,27,16,11,54,3,0,2,2,0,1,1,6
+EP,E,Engenharia Civil,60,38,24,122,8,0,4,4,0,2,2,14
+EP,E,Engenharia de Computação,33,21,12,66,3,0,2,2,0,2,2,7
+EP,E,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear ,24,15,10,49,3,0,2,2,0,1,1,6
+EP,E,Engenharia de Minas,14,8,5,27,1,0,1,1,0,1,1,3
+EP,E,Engenharia de Petróleo,16,10,6,32,1,0,1,1,0,1,1,3
+EP,E,Engenharia de Produção,33,21,14,68,5,0,2,2,0,1,1,8
+EP,E,"Engenharia Elétrica (Ênfases: Automação e
+Controle, Energia e Automação Elétricas,
+Eletrônica e Sistemas Computacionais,
+Telecomunicações)",76,49,28,153,9,0,4,4,0,4,4,17
+EP,E,Engenharia Mecânica,31,19,13,63,4,0,2,2,0,1,1,7
+EP,E,Engenharia Mecatrônica,27,17,11,55,3,0,2,2,0,1,1,6
+EP,E,Engenharia Naval,19,12,8,39,2,0,1,1,0,1,1,4
+EP,E,Engenharia Química (quadrimestral),27,17,11,55,3,0,2,2,0,1,1,6
+EP,,Subtotal Unidade,387,243,153,783,45,0,25,25,0,17,17,87
+ESALQ,B,Engenharia Agronômica,82,46,32,160,18,0,16,16,0,6,6,40
+ESALQ,B,Engenharia Florestal,13,9,6,28,7,0,3,3,0,2,2,12
+ESALQ,B,Ciências dos Alimentos - Bach.,13,9,6,28,7,0,3,3,0,2,2,12
+ESALQ,B,Ciências Biológicas - Bach. e Lic.,10,7,4,21,5,0,2,2,0,2,2,9
+ESALQ,H,Ciências Econômicas - Bacharelado,20,12,8,40,0,0,0,0,0,0,0,0
+ESALQ,H,Gestão Ambiental - Bacharelado,16,8,4,28,4,0,4,4,0,4,4,12
+ESALQ,H,Bacharelado em Administração,20,12,8,40,0,0,0,0,0,0,0,0
+ESALQ,,Subtotal Unidade,174,103,68,345,41,0,28,28,0,16,16,85
+FAU,H,Arquitetura e Urbanismo,60,31,14,105,15,8,7,15,8,7,15,45
+FAU,H,Design,16,8,4,28,4,2,2,4,2,2,4,12
+FAU,,Subtotal Unidade,76,39,18,133,19,10,9,19,10,9,19,57
+FCF,B,Farmácia,37,15,8,60,0,8,0,8,0,7,7,15
+FCF,B,Farmácia,37,16,7,60,0,7,0,7,0,8,8,15
+FCF,,Subtotal Unidade,74,31,15,120,0,15,0,15,0,15,15,30
+FCFRP,B,Farmácia,40,15,7,62,0,0,10,10,0,8,8,18
+FCFRP,,Subtotal Unidade,40,15,7,62,0,0,10,10,0,8,8,18
+FD,H,Direito,112,44,1,157,0,13,13,26,21,21,42,68
+FD,H,Direito,117,46,1,164,0,13,14,27,22,22,44,71
+FD,,Subtotal Unidade,229,90,2,321,0,26,27,53,43,43,86,139
+FDRP,H,Direito,50,18,2,70,0,13,0,13,17,0,17,30
+FDRP,,Subtotal Unidade,50,18,2,70,0,13,0,13,17,0,17,30
+FEA,H,Bacharelado em Administração,50,13,7,70,0,9,9,18,6,6,12,30
+FEA,H,Bacharelado em Administração,55,14,8,77,0,10,10,20,6,7,13,33
+FEA,H,Bacharelado em Ciências Atuariais,25,5,5,35,0,5,5,10,2,3,5,15
+FEA,H,Bacharelado em Ciências Contábeis,75,19,11,105,0,13,14,27,9,9,18,45
+FEA,H,Bacharelado em Ciências Econômicas,45,11,7,63,0,9,8,17,5,5,10,27
+FEA,H,Bacharelado em Ciências Econômicas,45,12,6,63,0,8,8,16,5,6,11,27
+FEA,,Subtotal Unidade,295,74,44,413,0,54,54,108,33,36,69,177
+FEARP,H,Bacharelado em Administração,20,13,9,42,10,0,5,5,0,3,3,18
+FEARP,H,Bacharelado em Administração,15,11,6,32,7,0,3,3,0,3,3,13
+FEARP,H,Ciências Contábeis - Bach.,15,11,6,32,7,0,3,3,0,3,3,13
+FEARP,H,Bacharelado em Ciências Econômicas,15,11,6,32,7,0,3,3,0,3,3,13
+FEARP,H,Bacharelado em Finanças e Negócios,23,16,10,49,12,0,5,5,0,4,4,21
+FEARP,,Subtotal Unidade,88,62,37,187,43,0,19,19,0,16,16,78
+FE,H,Pedagogia,30,11,4,45,0,7,0,7,8,0,8,15
+FE,H,Pedagogia,60,23,7,90,0,14,0,14,16,0,16,30
+FE,,Subtotal Unidade,90,34,11,135,0,21,0,21,24,0,24,45
+FFCLRP,E,"Química - Bacharelado – Habilitações:
+Química Bacharelado; Química Forense;
+Química Tecnológica, Biotecnologia e
+Agroindústria",21,13,8,42,9,0,5,5,0,4,4,18
+FFCLRP,E,Bacharelado em Física Médica,13,9,6,28,7,1,2,3,0,2,2,12
+FFCLRP,E,Licenciatura e Bacharelado em Química,14,8,6,28,6,0,4,4,0,2,2,12
+FFCLRP,E,Bacharelado em Matemática Aplicada a Negócios,16,10,5,31,6,0,4,4,0,4,4,14
+FFCLRP,B,Psicologia - Bach. e Psicólogo,20,8,0,28,0,0,4,4,0,8,8,12
+FFCLRP,B,Ciências Biológicas – Bacharelado e Licenciatura,20,8,0,28,0,0,4,4,0,8,8,12
+FFCLRP,H,Pedagogia,25,8,2,35,0,0,7,7,0,8,8,15
+FFCLRP,H,Bacharelado em Biblioteconomia e Ciência da Informação,20,6,2,28,0,0,6,6,0,6,6,12
+FFCLRP,E,Bacharelado em Ciência da Computação,10,4,0,14,0,0,2,2,0,4,4,6
+FFCLRP,H,Música - Bacharelado e  Educação Artística,15,9,6,30,0,0,0,0,0,0,0,0
+FFCLRP,,Subtotal Unidade,174,83,35,292,28,1,38,39,0,46,46,113
+FFLCH,H,Ciências Sociais - Bach./Lic.,50,16,4,70,0,15,0,15,10,5,15,30
+FFLCH,H,Ciências Sociais - Bach./Lic.,55,14,8,77,0,20,0,20,8,5,13,33
+FFLCH,H,Filosofia - Bach./Lic.,40,13,3,56,0,12,0,12,6,6,12,24
+FFLCH,H,Filosofia - Bach./Lic.,45,13,5,63,0,15,0,15,6,6,12,27
+FFLCH,H,Geografia - Bach./Lic.,40,13,3,56,0,12,0,12,12,0,12,24
+FFLCH,H,Geografia - Bach./Lic.,45,14,4,63,0,14,0,14,13,0,13,27
+FFLCH,H,História - Bach./Lic.,65,19,7,91,0,21,0,21,0,18,18,39
+FFLCH,H,História - Bach./Lic.,70,20,8,98,0,23,0,23,0,19,19,42
+FFLCH,H,Letras – Bach./Lic.,211,59,27,297,0,72,0,72,34,19,53,125
+FFLCH,H,Letras – Bach./Lic.,213,60,27,300,0,73,0,73,35,19,54,127
+FFLCH,,Subtotal Unidade,834,241,96,1171,0,277,0,277,124,97,221,498
+FM,B,Medicina,58,39,25,122,29,0,16,16,0,8,8,53
+FM,B,Fisioterapia,9,6,3,18,3,0,2,2,0,2,2,7
+FM,B,Fonoaudiologia,9,6,3,18,3,0,2,2,0,2,2,7
+FM,B,Terapia Ocupacional,9,6,3,18,3,0,2,2,0,2,2,7
+FM,,Subtotal Unidade,85,57,34,176,38,0,22,22,0,14,14,74
+FMRP,B,Medicina,50,19,6,75,0,6,6,12,7,6,13,25
+FMRP,B,Fisioterapia,20,6,3,29,0,0,6,6,0,5,5,11
+FMRP,B,Terapia Ocupacional,10,4,1,15,0,0,2,2,0,3,3,5
+FMRP,B,Nutrição e Metabolismo,15,5,1,21,0,0,4,4,0,5,5,9
+FMRP,B,Fonoaudiologia,15,5,2,22,0,0,4,4,0,4,4,8
+FMRP,B,Ciências Biomédicas - Ênfases em Ciências Básicas da Saúde e Ênfase em Biotecnologia em Saúde,12,4,3,19,0,0,4,4,0,2,2,6
+FMRP,E,Informática Biomédica,10,2,2,14,0,0,4,4,0,2,2,6
+FMRP,,Subtotal Unidade,132,45,18,195,0,6,30,36,7,27,34,70
+FMVZ,B,Medicina Veterinária,36,15,5,56,4,4,6,10,4,6,10,24
+FMVZ,,Subtotal Unidade,36,15,5,56,4,4,6,10,4,6,10,24
+FO,B,Odontologia,29,21,8,58,12,0,5,5,0,8,8,25
+FO,B,Odontologia,18,12,5,35,7,0,3,3,0,5,5,15
+FO,,Subtotal Unidade,47,33,13,93,19,0,8,8,0,13,13,40
+FOB,B,Odontologia,18,9,8,35,7,0,6,6,0,2,2,15
+FOB,B,Medicina,23,10,9,42,7,0,8,8,0,3,3,18
+FOB,B,Fonoaudiologia,13,9,6,28,7,3,0,3,2,0,2,12
+FOB,,Subtotal Unidade,54,28,23,105,21,3,14,17,2,5,7,45
+FORP,B,Odontologia,28,15,13,56,12,0,10,10,0,2,2,24
+FORP,,Subtotal Unidade,28,15,13,56,12,0,10,10,0,2,2,24
+FSP,B,Nutrição,18,7,3,28,2,0,5,5,0,5,5,12
+FSP,B,Nutrição,18,7,3,28,2,0,5,5,0,5,5,12
+FSP,B,Bacharelado em Saúde Pública,18,7,3,28,2,0,5,5,0,5,5,12
+FSP,,Subtotal Unidade,54,21,9,84,6,0,15,15,0,15,15,36
+FZEA,E,Engenharia de Alimentos,17,10,8,35,8,0,5,5,0,2,2,15
+FZEA,E,Engenharia de Alimentos,17,10,8,35,8,0,5,5,0,2,2,15
+FZEA,E,Engenharia de Biossistemas,21,12,9,42,9,0,6,6,0,3,3,18
+FZEA,B,Zootecnia,14,8,6,28,6,0,4,4,0,2,2,12
+FZEA,B,Medicina Veterinária,21,12,9,42,9,0,6,6,0,3,3,18
+IAU,H,Arquitetura e Urbanismo,15,10,6,31,7,1,3,4,1,2,3,14
+IAU,,Subtotal Unidade,15,10,6,31,7,1,3,4,1,2,3,14
+IAG,E,Bacharelado em Geofísica,12,9,6,27,3,0,0,0,0,0,0,3
+IAG,E,Bacharelado em Meteorologia,12,9,6,27,3,0,0,0,0,0,0,3
+IAG,E,Bacharelado em Astronomia,10,5,3,18,0,0,1,1,0,1,1,2
+IAG,,Subtotal Unidade,34,23,15,72,6,0,1,1,0,1,1,8
+IB,B,Ciências Biológicas - Bach./Lic.,27,10,5,42,3,0,8,8,0,7,7,18
+IB,B,Ciências Biológicas - Bach./Lic.,27,10,5,42,3,0,8,8,0,7,7,18
+IB,,Subtotal Unidade,54,20,10,84,6,0,16,16,0,14,14,36
+ICB,B,Bacharelado em Ciências Biomédicas,20,6,2,28,0,1,5,6,1,5,6,12
+ICB,,Subtotal Unidade,20,6,2,28,0,1,5,6,1,5,6,12
+ICMC,E,Bacharelado em Ciências de Computação,29,18,12,59,13,0,8,8,0,5,5,26
+ICMC,E,Matemática - Bach. e Licenciatura,10,6,5,21,5,0,3,3,0,1,1,9
+ICMC,E,Matemática Aplic. e Comput. Científica,7,4,3,14,3,0,2,2,0,1,1,6
+ICMC,E,Bacharelado em Sistemas de Informação,17,11,7,35,8,0,4,4,0,3,3,15
+ICMC,E,Bacharelado em Estatística e Ciência de,14,8,6,28,6,0,4,4,0,2,2,12
+ICMC,E,Bacharelado em Ciência de Dados,7,4,3,14,3,0,2,2,0,1,1,6
+ICMC,,Subtotal Unidade,84,51,36,171,38,0,23,23,0,13,13,74
+IF,E,Física – Bacharelado,30,9,3,42,0,0,9,9,0,9,9,18
+IF,E,Física – Bacharelado,37,11,4,52,0,0,12,12,0,11,11,23
+IF,E,Física – Licenciatura,25,8,2,35,0,0,7,7,0,8,8,15
+IF,E,Física – Licenciatura,30,9,3,42,0,0,9,9,0,9,9,18
+IF,E,Bacharelado em Física Médica,12,4,1,17,0,,,,,,,
+IF,,Subtotal Unidade,134,41,13,188,0,0,41,41,0,41,41,82
+IFSC,E,Física – Bacharelado,15,8,5,28,5,0,4,4,0,3,3,12
+IFSC,E,Bacharelado em Ciências Físicas e Biomoleculares -Ênfase Tecnológica,15,8,5,28,5,0,4,4,0,3,3,12
+IFSC,E,Bacharelado em Física Computacional,15,8,5,28,5,0,4,4,0,3,3,12
+IFSC/IQSC/ICMC,E,Licenciatura - Ciências Exatas,18,10,7,35,7,0,5,5,0,3,3,15
+IFSC,,Subtotal Unidade,63,34,22,119,22,0,17,17,0,12,12,51
+IGc,E,Geologia,25,10,0,35,0,0,5,5,0,10,10,15
+IGc,E,Lic. em Geociências e Educação Ambiental,20,8,0,28,0,0,4,4,0,8,8,12
+IG,,Subtotal Unidade,45,18,0,63,0,0,9,9,0,18,18,27
+IME,E,Bacharelado em Ciência da Computação,24,15,9,48,6,1,2,3,1,2,3,12
+IME,E,Matemática - Licenciatura,25,8,2,35,0,0,7,7,0,8,8,15
+IME,E,Matemática - Licenciatura,50,16,4,70,0,0,15,15,0,15,15,30
+IME,E,Estatística - Bacharelado,20,6,8,34,0,0,6,6,0,0,0,6
+IME,E,Matemática - Bacharelado,13,5,3,21,2,0,4,4,0,3,3,9
+IME,E,Matemática Aplicada - Bacharelado,6,6,4,16,4,0,0,0,0,0,0,4
+IME,E,Bach. em Matemática Aplicada e Computacional,15,15,10,40,10,0,0,0,0,0,0,10
+IME,,Subtotal Unidade,153,71,40,264,22,1,34,35,1,28,29,86
+IO,E,Bacharelado em Oceanografia,16,8,4,28,4,2,2,4,2,2,4,12
+IO,,Subtotal Unidade,16,8,4,28,4,2,2,4,2,2,4,12
+IP,B,Psicologia - Bach./Lic. e Psicólogo,35,8,6,49,0,7,6,13,0,8,8,21
+IP,,Subtotal Unidade,35,8,6,49,0,7,6,13,0,8,8,21
+IQ,E,Química – Bacharelado e Licenciatura – Integral (Bach. – Ênfases: Tecnológica; Biotecnologia; Bioquímica e Biologia Molecular),22,12,8,42,8,2,4,6,2,2,4,18
+IQ,E,Química – Bacharelado e Licenciatura – Noturno (Bach. – Ênfase em Química),22,12,8,42,8,2,4,6,2,2,4,18
+IQ,,Subtotal Unidade,44,24,16,84,16,4,8,12,4,4,8,36
+IQSC,E,Química Bacharelado (Hab. Fundamental e Hab. Tecnológica com ênfases em Alimentos; Ambiental; Gestão de Qualidade; Materiais),24,12,6,42,6,3,3,6,3,3,6,18
+IQSC,,Subtotal Unidade,24,12,6,42,6,3,3,6,3,3,6,18
+IRI,H,Bacharelado em Relações Internacionais,14,5,2,21,1,3,1,4,3,1,4,9
+IRI,H,Bacharelado em Relações Internacionais,14,5,2,21,1,3,1,4,3,1,4,9
+IRI,,Subtotal Unidade,28,10,4,42,2,6,2,8,6,2,8,18

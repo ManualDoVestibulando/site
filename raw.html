@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manual do Vestibulando</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        .imagem_usp {
+            background-image:
+                /* linear-gradient(to bottom, rgba(255, 143, 0, 0.4), rgba(255, 143, 0, 0.9)), */
+                url("img/usp.png");
+            height: 50vh;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .imagem_notas {
+            background-image:
+                linear-gradient(to bottom, rgba(255, 138, 0, 0.5), rgba(255, 138, 0, 0.5)),
+                url("img/notas.png");
+            height: 50vh;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .full-window-section {
+            height: 100vh;
+            box-sizing: border-box;
+            background: white;
+            padding: 20px;
+        }
+
+    </style>
+    <script>
+        window.onbeforeunload = function () {
+            window.scrollTo(0,0);
+        }
+    </script>
+</head>
+<body>
+    <img src="img/logo.png" alt="Logo preto do Manual do Vestibulando">
+    <nav>
+        <ul>
+            <li><a href="">Redações</a></li>
+            <li><a href="">Notas</a></li>
+            <li><a href="">Depoimentos</a></li>
+        </ul>
+    </nav>
+    <div class="imagem_usp">
+        <p style="background-color: white; border-style: solid; border-color: #FF8F00; border-width: 5px;">
+            Tudo que você já quis saber sobre o ingresso na USP, em um só lugar
+        </p>
+    </div>
+
+    <section class="full-window-section">
+        <h2>Notas</h2>
+        <div class="imagem_notas"></div>
+        <h3>Cursos mais procurados</h3>
+        <ul>
+            <li><a href="">Lorem ipsum</a></li>
+            <li><a href="">Lorem ipsum</a></li>
+            <li><a href="">Lorem ipsum</a></li>
+        </ul>
+    </section>
+    <section class="full-window-section">
+        <h2>Redações</h2>
+        <ul>
+            <li><a href="">Redações da Fuvest</a></li>
+            <li><a href="">Redações do ENEM</a></li>
+        </ul>
+    </section>
+    <section class="full-window-section">
+        <h2>Depoimentos</h2>
+        <h3>Depoimentos da Semana</h3>
+        <ul>
+            <li>Lorem ipsum</li>
+            <li>Lorem ipsum</li>
+            <li>Lorem ipsum</li>
+        </ul>
+    </section>
+</body>
+</html>
