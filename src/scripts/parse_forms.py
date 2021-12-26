@@ -45,7 +45,7 @@ def parse_enem_results(row):
 
 if __name__ == '__main__':
     FORM_PATH = 'data/1_raw/forms'
-    RESULT_PATH = 'data/3_processed/forms'
+    RESULT_PATH = 'data/2_intermediate/forms'
 
     latest_form_filename = sorted(os.listdir(FORM_PATH))[-1]
     latest_form_filepath = os.path.join(FORM_PATH, latest_form_filename)
