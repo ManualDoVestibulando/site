@@ -1,1 +1,6 @@
-data/4_content
+!.gitkeep
+
+data/4_content/*
+html/*
+
+!html/index.html
