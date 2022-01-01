@@ -66,3 +66,7 @@ body {
     background: white;
     padding: 20px;
 }
+
+.scroll-x {
+  overflow-x: auto;
+}
