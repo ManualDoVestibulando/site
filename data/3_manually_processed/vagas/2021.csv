@@ -1,0 +1,183 @@
+id,unidade,curso,periodo,total,fuvest_ac,fuvest_ep,fuvest_ppi,fuvest,enem_ac,enem_ep_l1,enem_ep_l3,enem_ep,enem_ppi_l2,enem_ppi_l4,enem_ppi,enem
+0,EACH,Bacharelado em Sistemas de Informação,M,60,28,10,4,42,2,0,8,8,0,8,8,18
+1,EACH,Bacharelado em Sistemas de Informação,N,120,56,21,7,84,4,0,16,16,0,16,16,36
+2,EACH,Licenciatura em Ciências da Natureza,N,60,30,9,3,42,0,0,9,9,0,9,9,18
+3,EACH,Bacharelado em Educação Física e Saúde,D,60,20,14,8,42,10,4,0,4,4,0,4,18
+4,EACH,Bacharelado em Biotecnologia,D,60,30,11,1,42,0,0,7,7,0,11,11,18
+5,EACH,Curso de Graduação em Gerontologia,V,60,24,12,6,42,6,0,6,6,0,6,6,18
+6,EACH,Curso de Graduação em Obstetrícia,I,60,24,12,6,42,6,4,2,6,4,2,6,18
+7,EACH,Bacharelado em Têxtil e Moda,M,60,24,12,6,42,6,3,3,6,3,3,6,18
+8,EACH,Bacharelado em Lazer e Turismo,V,60,30,9,3,42,0,9,0,9,9,0,9,18
+9,EACH,Bacharelado em Lazer e Turismo,N,60,30,9,3,42,0,9,0,9,9,0,9,18
+10,EACH,Bacharelado em Gestão Ambiental,M,60,27,11,4,42,3,0,7,7,0,8,8,18
+11,EACH,Bacharelado em Gestão Ambiental,N,60,27,11,4,42,3,0,7,7,0,8,8,18
+12,EACH,Gestão de Políticas Públicas,M,60,24,12,6,42,6,3,3,6,3,3,6,18
+13,EACH,Gestão de Políticas Públicas,N,60,24,12,6,42,6,3,3,6,3,3,6,18
+14,EACH,Marketing,M,60,12,18,12,42,18,0,0,0,0,0,0,18
+15,EACH,Marketing,N,60,12,18,12,42,18,0,0,0,0,0,0,18
+16,ECA,Artes Cênicas - Bach. e Lic.,D,30,15,9,6,30,0,0,0,0,0,0,0,0
+17,ECA,Artes Visuais - Bach. e Lic.,D,30,15,9,6,30,0,0,0,0,0,0,0,0
+18,ECA,Música - Bacharelado e Licenciatura,D,50,25,15,10,50,0,0,0,0,0,0,0,0
+19,ECA,Biblioteconomia,M,20,8,4,2,14,2,0,2,2,0,2,2,6
+20,ECA,Biblioteconomia,N,20,8,4,2,14,2,0,2,2,0,2,2,6
+21,ECA,Turismo,N,30,12,6,3,21,3,0,3,3,0,3,3,9
+22,ECA,Com. Social: Publicidade e Propaganda,M,20,8,4,2,14,2,0,2,2,0,2,2,6
+23,ECA,Com. Social: Publicidade e Propaganda,N,30,12,6,3,21,3,0,3,3,0,3,3,9
+24,ECA,Com. Social: Editoração,M,15,7,3,1,11,0,0,2,2,0,2,2,4
+25,ECA,Bacharelado em Jornalismo,M,30,15,5,1,21,0,0,4,4,0,5,5,9
+26,ECA,Bacharelado em Jornalismo,N,30,15,5,1,21,0,0,4,4,0,5,5,9
+27,ECA,Bacharelado em Relações Públicas,M,20,8,4,2,14,2,0,2,2,0,2,2,6
+28,ECA,Bacharelado em Relações Públicas,N,30,12,6,3,21,3,0,3,3,0,3,3,9
+29,ECA,Curso Superior do Audiovisual,D,35,17,6,1,24,0,0,5,5,0,6,6,11
+30,ECA,Licenciatura em Educomunicação,N,30,13,5,3,21,2,0,4,4,0,3,3,9
+31,EEFE,Educação Física e Esporte – Educação Física (Bach. e Lic.) e Esporte (Bach.),I,100,50,20,10,80,0,0,11,11,0,9,9,18
+32,EEFERP,Educação Física e Esporte,I,60,27,8,7,42,3,0,10,10,0,5,5,18
+33,EE,Enfermagem - Bacharelado e Licenciatura,I,80,27,19,10,56,13,0,6,6,0,5,5,24
+34,EERP,Enfermagem – Bacharelado,I,80,40,15,7,62,0,0,10,10,2,6,8,18
+35,EERP,Enfermagem – Bacharelado e Licenciatura,N,50,25,9,5,39,0,0,6,6,1,4,5,11
+36,EEL,Engenharia de Materiais,I,40,18,7,5,30,2,4,1,5,2,1,3,10
+37,EEL,Engenharia Bioquímica,I,40,18,8,4,30,2,3,1,4,3,1,4,10
+38,EEL,Engenharia Química,D,80,32,17,11,60,8,4,4,8,2,2,4,20
+39,EEL,Engenharia Química,N,80,32,17,11,60,8,4,4,8,2,2,4,20
+40,EEL,Engenharia Ambiental,I,40,19,9,6,34,1,2,1,3,1,1,2,6
+41,EEL,Engenharia de Produção,N,40,18,6,6,30,2,3,3,6,1,1,2,10
+42,EEL,Engenharia Física,I,40,18,7,5,30,2,4,1,5,2,1,3,10
+43,EESC,Engenharia Civil,I,60,28,16,11,55,2,0,2,2,0,1,1,5
+44,EESC,Engenharia Elétrica (Ênfase em Eletrônica,I,50,23,10,2,35,2,0,5,5,0,8,8,15
+45,EESC,Engenharia Elétrica (Ênfase em Sistemas de Energia e Automação),I,50,23,10,2,35,2,0,5,5,0,8,8,15
+46,EESC,Engenharia Mecânica,I,50,20,13,7,40,5,2,0,2,2,1,3,10
+47,EESC,Engenharia de Produção,I,50,21,12,7,40,4,3,0,3,3,0,3,10
+48,EESC,Engenharia Aeronáutica,I,40,17,10,6,33,3,0,2,2,0,2,2,7
+49,EESC,Engenharia Ambiental,I,40,18,5,5,28,2,1,6,7,1,2,3,12
+50,EESC,Engenharia Mecatrônica,I,50,20,12,8,40,5,3,0,3,2,0,2,10
+51,EESC,Engenharia de Materiais e Manufatura,I,50,20,11,9,40,5,2,2,4,0,1,1,10
+52,EESC,Engenharia de Computação,I,50,22,8,5,35,3,0,7,7,0,5,5,15
+53,EP,Engenharia Ambiental,I,60,27,16,11,54,3,0,2,2,0,1,1,6
+54,EP,Engenharia Civil,I,136,60,38,24,122,8,0,4,4,0,2,2,14
+55,EP,Engenharia de Computação,I,73,33,21,12,66,3,0,2,2,0,2,2,7
+56,EP,"Engenharia de Materiais, Engenharia
+Metalúrgica, Engenharia Nuclear",I,55,24,15,10,49,3,0,2,2,0,1,1,6
+57,EP,Engenharia de Minas,I,30,14,8,5,27,1,0,1,1,0,1,1,3
+58,EP,Engenharia de Petróleo,I,35,16,10,6,32,1,0,1,1,0,1,1,3
+59,EP,Engenharia de Produção,I,76,33,21,14,68,5,0,2,2,0,1,1,8
+60,EP,Engenharia Elétrica,I,170,76,49,28,153,9,0,4,4,0,4,4,17
+61,EP,Engenharia Mecânica,I,70,31,19,13,63,4,0,2,2,0,1,1,7
+62,EP,Engenharia Mecatrônica,I,61,27,17,11,55,3,0,2,2,0,1,1,6
+63,EP,Engenharia Naval,I,43,19,12,8,39,2,0,1,1,0,1,1,4
+64,EP,Engenharia Química (quadrimestral),I,61,27,17,11,55,3,0,2,2,0,1,1,6
+65,ESALQ,Engenharia Agronômica,I,200,82,46,32,160,18,0,16,16,0,6,6,40
+66,ESALQ,Engenharia Florestal,I,40,13,9,6,28,7,0,3,3,0,2,2,12
+67,ESALQ,Ciências dos Alimentos - Bacharelado,N,40,13,9,6,28,7,0,3,3,0,2,2,12
+68,ESALQ,Ciências Biológicas - Bach. e Lic.,N,30,10,7,4,21,5,0,2,2,0,2,2,9
+69,ESALQ,Ciências Econômicas - Bacharelado,D,40,20,12,8,40,0,0,0,0,0,0,0,0
+70,ESALQ,Gestão Ambiental - Bacharelado,N,40,16,8,4,28,4,0,4,4,0,4,4,12
+71,ESALQ,Bacharelado em Administração,D,40,20,12,8,40,0,0,0,0,0,0,0,0
+72,FAU,Arquitetura e Urbanismo,I,150,60,31,14,105,15,8,7,15,8,7,15,45
+73,FAU,Design,N,40,16,8,4,28,4,2,2,4,2,2,4,12
+74,FCF,Farmácia,I,75,37,15,8,60,0,8,0,8,0,7,7,15
+75,FCF,Farmácia,N,75,37,16,7,60,0,7,0,7,0,8,8,15
+76,FCFRP,Farmácia,I,80,40,15,7,62,0,0,10,10,0,8,8,18
+77,FD,Direito,M,225,112,44,1,157,0,13,13,26,21,21,42,68
+78,FD,Direito,N,235,117,46,1,164,0,13,14,27,22,22,44,71
+79,FDRP,Direito,I,100,50,18,2,70,0,13,0,13,17,0,17,30
+80,FEA,Bacharelado em Administração,D,100,50,13,7,70,0,0,18,18,0,12,12,30
+81,FEA,Bacharelado em Administração,N,110,55,14,8,77,0,0,20,20,0,13,13,33
+82,FEA,Bacharelado em Ciências Atuariais,N,50,25,5,5,35,0,0,10,10,0,5,5,15
+83,FEA,Bacharelado em Ciências Contábeis,N,150,75,19,11,105,0,0,27,27,0,18,18,45
+84,FEA,Bacharelado em Ciências Econômicas,D,90,45,11,7,63,0,0,17,17,0,10,10,27
+85,FEA,Bacharelado em Ciências Econômicas,N,90,45,12,6,63,0,0,16,16,0,11,11,27
+86,FEARP,Bacharelado em Administração,D,60,20,13,9,42,10,0,5,5,0,3,3,18
+87,FEARP,Bacharelado em Administração,N,45,15,11,6,32,7,0,3,3,0,3,3,13
+88,FEARP,Ciências Contábeis,N,45,15,11,6,32,7,0,3,3,0,3,3,13
+89,FEARP,Bacharelado em Ciências Econômicas,N,45,15,11,6,32,7,0,3,3,0,3,3,13
+90,FEARP,Economia Empresarial e Controladoria,D,70,23,16,10,49,12,0,5,5,0,4,4,21
+91,FE,Pedagogia,V,60,30,11,4,45,0,7,0,7,8,0,8,15
+92,FE,Pedagogia,N,120,60,23,7,90,0,14,0,14,16,0,16,30
+93,FFCLRP,"Química - Bacharelado – Habilitações:
+Química Forense; Química Tecnológica,
+Biotecnologia e Agroindústria",I,60,21,13,8,42,9,0,5,5,0,4,4,18
+94,FFCLRP,Física Médica,N,40,18,10,6,34,2,0,2,2,0,2,2,6
+95,FFCLRP,Licenciatura e Bacharelado em Química,N,40,14,8,6,28,6,0,4,4,0,2,2,12
+96,FFCLRP,Bacharelado em Matemática Aplicada a Negócios,D,45,16,10,5,31,6,0,4,4,0,4,4,14
+97,FFCLRP,Psicologia - Bach. e Psicólogo,I,40,20,8,0,28,0,0,4,4,0,8,8,12
+98,FFCLRP,Ciências Biológicas – Bacharelado e Licenciatura,I,40,20,8,0,28,0,0,4,4,0,8,8,12
+99,FFCLRP,Pedagogia,N,50,25,8,2,35,0,0,7,7,0,8,8,15
+100,FFCLRP,Bacharelado em Biblioteconomia e Ciência da Informação,N,40,20,6,2,28,0,0,6,6,0,6,6,12
+101,FFCLRP,Bacharelado em Ciência da Computação,I,20,10,4,0,14,0,0,2,2,0,4,4,6
+102,FFCLRP,Música - Bacharelado e  Educação Artística – Licenciatura com Habilitação em Música,I,30,15,9,6,30,0,0,0,0,0,0,0,0
+103,FFLCH,Ciências Sociais - Bach./Lic.,V,100,50,16,4,70,0,15,0,15,10,5,15,30
+104,FFLCH,Ciências Sociais - Bach./Lic.,N,110,55,14,8,77,0,20,0,20,8,5,13,33
+105,FFLCH,Filosofia - Bach./Lic.,V,80,40,13,3,56,0,12,0,12,6,6,12,24
+106,FFLCH,Filosofia - Bach./Lic.,N,90,45,13,5,63,0,15,0,15,6,6,12,27
+107,FFLCH,Geografia - Bach./Lic.,D,80,40,13,3,56,0,12,0,12,12,0,12,24
+108,FFLCH,Geografia - Bach./Lic.,N,90,45,14,4,63,0,14,0,14,13,0,13,27
+109,FFLCH,História - Bach./Lic.,V,130,65,19,7,91,0,21,0,21,0,18,18,39
+110,FFLCH,História - Bach./Lic.,N,140,70,20,8,98,0,23,0,23,0,19,19,42
+111,FFLCH,Letras – Bach./Lic.,M,422,211,59,27,297,0,72,0,72,34,19,53,125
+112,FFLCH,Letras – Bach./Lic.,N,427,213,60,27,300,0,73,0,73,35,19,54,127
+113,FM,Medicina,I,175,58,39,25,122,29,0,16,16,8,0,8,53
+114,FM,Fisioterapia,I,25,9,6,3,18,3,0,2,2,0,2,2,7
+115,FM,Fonoaudiologia,I,25,9,6,3,18,3,0,2,2,0,2,2,7
+116,FM,Terapia Ocupacional,I,25,9,6,3,18,3,0,2,2,0,2,2,7
+117,FMRP,Medicina,I,100,50,19,6,75,0,0,12,12,0,13,13,25
+118,FMRP,Fisioterapia,N,40,20,6,3,29,0,0,6,6,0,5,5,11
+119,FMRP,Terapia Ocupacional,N,20,10,4,1,15,0,0,2,2,0,3,3,5
+120,FMRP,Nutrição e Metabolismo,I,30,15,5,1,21,0,3,1,4,3,2,5,9
+121,FMRP,Fonoaudiologia,I,30,15,5,2,22,0,0,4,4,0,4,4,8
+122,FMRP,Ciências Biomédicas - Ênfases em Ciências Básicas da Saúde e Ênfase em Biotecnologia em Saúde,I,25,12,4,3,19,0,0,4,4,0,2,2,6
+123,FMRP,Informática Biomédica,I,20,10,2,2,14,0,0,4,4,0,2,2,6
+124,FMVZ,Medicina Veterinária,I,80,36,15,5,56,4,4,6,10,4,6,10,24
+125,FO,Odontologia,I,83,29,21,8,58,12,0,5,5,0,8,8,25
+126,FO,Odontologia,N,50,18,12,5,35,7,0,3,3,0,5,5,15
+127,FOB,Odontologia,I,50,18,9,8,35,7,0,6,6,0,2,2,15
+128,FOB,Medicina,I,60,23,10,9,42,7,0,8,8,0,3,3,18
+129,FOB,Fonoaudiologia,I,40,13,9,6,28,7,3,0,3,2,0,2,12
+130,FORP,Odontologia,I,80,28,15,13,56,12,0,10,10,0,2,2,24
+131,FSP,Nutrição,M,40,18,7,3,28,2,0,5,5,0,5,5,12
+132,FSP,Nutrição,N,40,18,7,3,28,2,0,5,5,0,5,5,12
+133,FSP,Saúde Pública – Bach.,V,40,18,7,3,28,2,0,5,5,0,5,5,12
+134,FZEA,Engenharia de Alimentos,D,50,17,10,8,35,8,0,5,5,0,2,2,15
+135,FZEA,Engenharia de Alimentos,N,50,17,10,8,35,8,0,5,5,0,2,2,15
+136,FZEA,Engenharia de Biossistemas,I,60,21,12,9,42,9,0,6,6,0,3,3,18
+137,FZEA,Zootecnia,I,40,14,8,6,28,6,0,4,4,0,2,2,12
+138,FZEA,Medicina Veterinária,I,60,21,12,9,42,9,0,6,6,0,3,3,18
+139,IAU,Arquitetura e Urbanismo,I,45,15,10,6,31,7,1,3,4,1,2,3,14
+140,IAG,Geofísica,D,30,12,9,6,27,3,0,0,0,0,0,0,3
+141,IAG,Meteorologia,D,30,12,9,6,27,3,0,0,0,0,0,0,3
+142,IAG,Astronomia,D,20,10,5,3,18,0,0,1,1,0,1,1,2
+143,IB,Ciências Biológicas - Bach./Lic.,I,60,27,10,5,42,3,0,8,8,0,7,7,18
+144,IB,Ciências Biológicas - Bach./Lic.,N,60,27,10,5,42,3,0,8,8,0,7,7,18
+145,ICB,Ciências Biomédicas - Bacharelado,I,40,20,8,0,28,0,0,4,4,0,8,8,12
+146,ICMC,Ciências de Computação - Bacharelado,I,85,29,18,12,59,13,0,8,8,0,5,5,26
+147,ICMC,Matemática - Bacharelado e Licenciatura,I,30,10,6,5,21,5,0,3,3,0,1,1,9
+148,ICMC,Matemática Aplic. e Comput. Científica,D,20,7,4,3,14,3,0,2,2,0,1,1,6
+149,ICMC,Sistema de Informação - Bacharelado,N,50,17,11,7,35,8,0,4,4,0,3,3,15
+150,ICMC,Estatística e Ciência de Dados,N,40,14,8,6,28,6,0,4,4,0,2,2,12
+151,ICMC,Bacharelado em Ciência de Dados,I,20,7,4,3,14,3,0,2,2,0,1,1,6
+152,IF,Física – Bacharelado,D,60,30,0,12,42,0,0,18,18,0,0,0,18
+153,IF,Física – Bacharelado,N,100,50,1,19,70,0,0,30,30,0,0,0,30
+154,IF,Física – Licenciatura,D,50,25,0,10,35,0,0,15,15,0,0,0,15
+155,IF,Física – Licenciatura,N,60,30,0,12,42,0,0,18,18,0,0,0,18
+156,IFSC,Física – Bacharelado,I,40,15,8,5,28,5,0,4,4,0,3,3,12
+157,IFSC,Ciências Físicas e Biomoleculares - Bacharelado - Ênfase Tecnológica,I,40,15,8,5,28,5,0,4,4,0,3,3,12
+158,IFSC,Física Computacional - Bacharelado,I,40,15,8,5,28,5,0,4,4,0,3,3,12
+159,IFSC,Ciências Exatas - Licenciatura,N,50,18,10,7,35,7,0,5,5,0,3,3,15
+160,IGc,Geologia,I,50,25,10,0,35,0,0,5,5,0,10,10,15
+161,IGc,Geociências e Educação Ambiental,N,40,20,8,0,28,0,0,4,4,0,8,8,12
+162,IME,Ciência da Computação - Bacharelado,D,60,24,18,12,54,6,0,0,0,0,0,0,6
+163,IME,Matemática - Licenciatura,D,50,25,8,2,35,0,0,7,7,0,8,8,15
+164,IME,Matemática - Licenciatura,N,100,50,16,4,70,0,0,15,15,0,15,15,30
+165,IME,Estatística – Bacharelado,D,40,20,6,8,34,0,0,6,6,0,0,0,6
+166,IME,Matemática - Bacharelado,D,30,15,6,3,24,0,0,3,3,0,3,3,6
+167,IME,Matemática Aplicada - Bacharelado,D,20,8,6,4,18,2,0,0,0,0,0,0,2
+168,IME,Matemática Aplicada e Computacional,N,50,20,15,10,45,5,0,0,0,0,0,0,5
+169,IO,Oceanografia – Bacharelado,I,40,16,8,4,28,4,2,2,4,2,2,4,12
+170,IP,Psicologia - Bach./Lic. e Psicólogo,I,70,35,8,6,49,0,0,13,13,0,8,8,21
+171,IQ,Química – Bacharelado e Licenciatura (Bach. – Ênfases: Tecnológica; Biotecnologia; Bioquímica e  Biologia Molecular),I,60,22,12,8,42,8,2,4,6,2,2,4,18
+172,IQ,Química – Bacharelado e Licenciatura (Bach. – Ênfase em Química Ambiental),N,60,22,12,8,42,8,2,4,6,2,2,4,18
+173,IQSC,"Química (Bacharelado e Bacharelado com
+Atribuições Tecnológicas com ênfases em
+Alimentos, Ambiental, Gestão de
+Qualidade e Materiais)",I,60,20,13,9,42,10,3,2,5,2,1,3,18
+174,IRI,Relações Internacionais – Bacharelado,D,30,14,5,2,21,1,3,1,4,3,1,4,9
+175,IRI,Relações Internacionais – Bacharelado,N,30,14,5,2,21,1,3,1,4,3,1,4,9

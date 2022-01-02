@@ -44,36 +44,44 @@ def parse_enem_results(row):
     })
 
 if __name__ == '__main__':
-    FORM_PATH = 'data/1_raw/forms'
-    RESULT_PATH = 'data/2_intermediate/forms'
+    FORM_DIR = 'data/1_raw/forms'
+    RESULT_DIR = 'data/2_intermediate/forms'
 
-    latest_form_filename = sorted(os.listdir(FORM_PATH))[-1]
-    latest_form_filepath = os.path.join(FORM_PATH, latest_form_filename)
-    form_df = pd.read_csv(latest_form_filepath)
+    enem_list = []
+    fuvest_list = []
 
-    unidade_series = merge_nan_cols(form_df,
-        r'^Unidade|unidade \(')
-    curso_series = merge_nan_cols(form_df,
-        r'Curso')
-    unidade_curso_df = pd.DataFrame({
-        'unidade': unidade_series,
-        'curso': curso_series,
-    })
+    for form_filename in os.listdir(FORM_DIR):
+        form_path = os.path.join(FORM_DIR, form_filename)
+        form_df = pd.read_csv(form_path)
 
-    fuvest_mask = form_df['Forma de ingresso'].str.contains('Fuvest')
-    enem_mask = form_df['Forma de ingresso'].str.contains('Enem')
+        unidade_series = merge_nan_cols(form_df,
+            r'^Unidade|unidade \(')
+        curso_series = merge_nan_cols(form_df,
+            r'Curso')
+        unidade_curso_df = pd.DataFrame({
+            'unidade': unidade_series,
+            'curso': curso_series,
+        })
 
-    fuvest_raw = form_df[fuvest_mask]
-    enem_raw = form_df[enem_mask]
+        fuvest_mask = form_df['Forma de ingresso'].str.contains('Fuvest')
+        enem_mask = form_df['Forma de ingresso'].str.contains('Enem')
 
-    fuvest_results = pd.concat([
-        unidade_curso_df[fuvest_mask],
-        fuvest_raw.apply(parse_fuvest_results, axis=1)],
-        axis=1)
-    enem_results = pd.concat([
-        unidade_curso_df[enem_mask],
-        enem_raw.apply(parse_enem_results, axis=1)],
-        axis=1)
+        fuvest_raw = form_df[fuvest_mask]
+        enem_raw = form_df[enem_mask]
 
-    fuvest_results.convert_dtypes().to_csv(os.path.join(RESULT_PATH, 'fuvest.csv'), index=None)
-    enem_results.convert_dtypes().to_csv(os.path.join(RESULT_PATH, 'enem.csv'), index=None)
+        fuvest_data = fuvest_raw.apply(parse_fuvest_results, axis=1)
+        enem_data = enem_raw.apply(parse_enem_results, axis=1)
+
+        fuvest = pd.concat([unidade_curso_df[fuvest_mask], fuvest_data],
+                        axis=1)
+        enem = pd.concat([unidade_curso_df[enem_mask], enem_data],
+                        axis=1)
+
+        fuvest_list.append(fuvest)
+        enem_list.append(enem)
+
+    fuvest_concat = pd.concat(fuvest_list, axis=0)
+    enem_concat = pd.concat(enem_list, axis=0)
+
+    fuvest_concat.convert_dtypes().to_csv(os.path.join(RESULT_DIR, 'fuvest.csv'), index=None)
+    enem_concat.convert_dtypes().to_csv(os.path.join(RESULT_DIR, 'enem.csv'), index=None)
