@@ -4,7 +4,7 @@
 Depends on the variables
 
 course_name:
-  name of the course being rendered
+  Name of the course being rendered
 latest_metrics_plotly_div:
   Plotly string from latest metric table
 metric_evolution_plotly_div
@@ -29,8 +29,8 @@ grade_dict:
 {% block title %}{{ course_name }} - Manual do Vestibulando{% endblock title %}
 {% block content %}
 
-<main class="container-fluid">
-  <h1 class="display-1 text-center">{{ course_name }} </h1>
+<main>
+  {{ main_heading(course_name) }}
   {% call center() %}
     {{ latest_metrics_plotly_div }}
   {% endcall %}
