@@ -16,9 +16,10 @@ grade_dict:
   quota-Plotly div pairs
 #}
 
-{% macro center(min_width='500px') %}
+{# min_width was determined empirically #}
+{% macro center(min_width='900px') %}
   <div class="row justify-content-center">
-    <div class="col-md-12 col-lg-6 scroll-x">
+    <div class="col-md-12 col-lg-8 scroll-x">
       <div style="min-width: {{ min_width }};">
         {{ caller() }}
       </div>
@@ -26,14 +27,22 @@ grade_dict:
   </div>
 {% endmacro %}
 
+{% macro table_title(title) %}
+  <h2 class="mt-2 text-center">{{- title -}}<h2>
+{% endmacro %}
+
 {% block title %}{{ course_name }} - Manual do Vestibulando{% endblock title %}
 {% block content %}
 
 <main>
   {{ main_heading(course_name) }}
+  {{ table_title('Valores das notas mais recentes') }}
+  {# height was determined empirically #}
   {% call center() %}
     {{ latest_metrics_plotly_div }}
   {% endcall %}
+
+  {{ table_title('Evolução dos valores com o passar dos anos') }}
   {% call center() %}
     {{ metric_evolution_plotly_div }}
   {% endcall %}
@@ -61,8 +70,9 @@ grade_dict:
       class="collapse {{ 'show' if loop.last -}}">
     <h1 class="my-2">{{- year -}}</h1>
     {% for quota, plotly_table_div in year_dict | dictsort %}
-      <h2 class="mt-2">{{ quota }}</h2>
-      {% call center() %}
+      {{ table_title(quota) }}
+      {# min_width was determined empirically #}
+      {% call center(min_width='1300px') %}
         {{ plotly_table_div|safe }}
       {% endcall %}
     {% endfor %}

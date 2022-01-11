@@ -1,0 +1,40 @@
+{% extends "base.html.jinja" %}
+
+{#
+Depends on the variables
+
+institute_dict:
+  Keys are institutes and content is
+  dictionaries containing course name
+  and URL pairs
+all_courses_dict:
+  Keys are course names and content
+  is their URLs
+#}
+
+{% macro nav(title) %}
+    <nav class="col-lg-6 col-md-12 my-3 my-lg-0">
+        <h1>{{- title -}}</h1>
+        {{ caller() }}
+    </nav>
+{% endmacro %}
+
+{% macro courses(courses_dict) %}
+    <ul class="list-group">
+        {% for name, url in courses_dict | dictsort %}
+            <li class="list-group-item"><a href="{{- url -}}">{{- name -}}</a></li>
+        {% endfor %}
+    </ul>
+{% endmacro %}
+
+{% block title -%}
+    Cursos - Manual do Vestibulando
+{%- endblock title %}
+
+{% block content %}
+    <div class="row justify-content-center px-5">
+        {% call nav('Selecione o seu curso') %}
+            {{ courses(all_courses_dict) }}
+        {% endcall %}
+    </div>
+{% endblock content %}

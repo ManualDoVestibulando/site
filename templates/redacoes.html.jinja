@@ -1,0 +1,61 @@
+{% extends 'base.html.jinja' %}
+{% block title %}Redações{% endblock %}
+
+{#
+Depends on the variables
+
+years_dict:
+    Dictionary containing essay information
+    whose keys are the exam year and whose
+    content are dictionaries containing
+    score-metadata pairs
+exam:
+    Name of the exam
+criteria:
+    Enem criteria to represent, in order
+#}
+
+{% block content %}
+    <h1 class="mt-5 text-center">{{- exam|title -}}</h1>
+    <nav class="row mt-5">
+        <div class="btn-group" role="group">
+            {% for year in years_dict.keys() | sort() %}
+            <button
+                type="button"
+                class="btn {{ 'btn-primary' if loop.last else 'btn-outline-primary' -}}"
+                data-bs-toggle="collapse"
+                data-bs-target="#table{{- year -}}"
+                aria-expanded="{{- 'true' if loop.last else 'false' -}}"
+                aria-controls="{{- year -}}">
+                {{- year -}}
+            </button>
+            {% endfor %}
+        </div>
+    </nav>
+
+    {% for year, essays_dict in years_dict | dictsort() %}
+        <section id="table{{- year -}}"
+                 class=" collapse {{ 'show' if loop.last -}}">
+            <h2 class="my-2">{{- year -}}</h2>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+                {% for key, essay_dict in essays_dict | dictsort(reverse=True) %}
+                    <div class="col">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title fw-bold">{{ essay_dict['nota'] }}</h5>
+                                {% if criteria %}
+                                    <p>
+                                        {% for criterium in criteria %}
+                                            <span class="badge bg-primary">{{ essay_dict[criterium] }}</span>
+                                        {% endfor %}
+                                    </p>
+                                {% endif %}
+                                <a href="{{- essay_dict['url'] -}}" class="btn btn-outline-primary">Veja a redação</a>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </section>
+    {% endfor %}
+{% endblock %}
