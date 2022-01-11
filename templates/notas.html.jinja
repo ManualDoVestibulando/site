@@ -50,7 +50,7 @@ grade_dict:
 
 <h1 class="mt-5 text-center">Tabelas de Notas</h1>
   <div class="accordion" id="accordion">
-    {% for year, year_dict in grade_dict | dictsort() %}
+    {% for year, year_dict in grade_dict | dictsort(reverse=True) %}
       <div class="accordion-item">
         <h2 class="accordion-header" id="heading{{- year -}}">
           <button
@@ -58,14 +58,14 @@ grade_dict:
                   type="button"
                   data-bs-toggle="collapse"
                   data-bs-target="#essay{{- year -}}"
-                  aria-expanded="{{- 'true' if loop.last else 'false' -}}"
+                  aria-expanded="true"
                   aria-controls="{{- year -}}">
               {{- year -}}
           </button>
         </h2>
         <div
             id="essay{{- year -}}"
-            class="accordion-collapse collapse {{ 'show' if loop.last -}}"
+            class="accordion-collapse collapse show"
             aria-labelledby="heading{{- year -}}"
             data-bs-parent="#accordion">
 
