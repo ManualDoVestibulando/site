@@ -1,6 +1,9 @@
 !.gitkeep
 
 data/4_content/*
-html/*
+website/*
+data/**/redacoes/**/*
 
-!html/index.html
+!website/index.html
+!website/style.css
+!website/img
