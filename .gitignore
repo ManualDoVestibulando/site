@@ -1,9 +1,15 @@
 !.gitkeep
+*.json
+venv
+*.zip
 
-data/4_content/*
-website/*
+data/5_content/*
+
 data/**/redacoes/**/*
+!data/3_processed/redacoes/**/*
+!data/4_final/redacoes/**/*
 
+website/*
 !website/index.html
 !website/style.css
 !website/img
