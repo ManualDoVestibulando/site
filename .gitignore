@@ -1,7 +1,12 @@
+.vscode
+venv
+
 !.gitkeep
 *.json
-venv
 *.zip
+
+*.ipynb
+!0-Calculate\ vacancies\ in\ USP.ipynb
 
 data/5_content/*
 
