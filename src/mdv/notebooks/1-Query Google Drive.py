@@ -107,7 +107,7 @@ def parse_enem_essays(filetree, base_view_url, columns):
                 final_marks = [marks[0], None, None, None, None, None]
             file_view_url = base_view_url.format(drive_item['id'])
             data.append([year, *final_marks, drive_item['id'], file_view_url])
-    
+
     return pd.DataFrame(data=data, columns=columns).convert_dtypes()
 
 
@@ -126,7 +126,7 @@ def parse_fuvest_essays(filetree, base_view_url, columns):
                 mark = filename.split('_')[0].split('-')[0].replace(',', '.')
                 file_view_url = base_view_url.format(drive_item['id'])
                 data.append([year, mark, drive_item['id'], file_view_url])
-    
+
     return pd.DataFrame(data=data, columns=columns).convert_dtypes()
 
 
@@ -184,7 +184,7 @@ drive_api_key()
 # %%
 def drive_service():
     SCOPES = ['https://www.googleapis.com/auth/drive']
-    SERVICE_ACCOUNT_FILE = 'service.json'
+    SERVICE_ACCOUNT_FILE = '../../service.json'
     credentials = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
@@ -203,16 +203,17 @@ def drive_service():
         # result = service.about().get(fields='storageQuota').execute()
         # print(result)
 
-        # results = service.files().list(
-        #     pageSize=10).execute()
+        # results = service.files().list().execute()
         # items = results.get('files', [])
-        #
+
         # if not items:
         #     print('No files found.')
         #     return
         # print('Files:')
         # for item in items:
         #     print(u'{0} ({1})'.format(item['name'], item['id']))
+
+        print(service.about().get(fields='storageQuota').execute())
 
         # file_id = '1-H2egFbxXfJPM2EifumTIJMwQH9Q5DNU'
         # permissions = {
@@ -225,16 +226,16 @@ def drive_service():
         #     fields='id',
         # ).execute()
 
-        from googleapiclient.http import MediaIoBaseDownload
+        # from googleapiclient.http import MediaIoBaseDownload
 
-        file_id = '1-H2egFbxXfJPM2EifumTIJMwQH9Q5DNU'
-        request = service.files().get_media(fileId=file_id)
-        with open('example.pdf', 'wb') as output:
-            downloader = MediaIoBaseDownload(output, request)
-            done = False
-            while done is False:
-                status, done = downloader.next_chunk()
-                print(f"Download {int(status.progress() * 100)}")
+        # file_id = '1-H2egFbxXfJPM2EifumTIJMwQH9Q5DNU'
+        # request = service.files().get_media(fileId=file_id)
+        # with open('example.pdf', 'wb') as output:
+        #     downloader = MediaIoBaseDownload(output, request)
+        #     done = False
+        #     while done is False:
+        #         status, done = downloader.next_chunk()
+        #         print(f"Download {int(status.progress() * 100)}")
 
     except HttpError as error:
         # TODO(developer) - Handle errors from drive API.

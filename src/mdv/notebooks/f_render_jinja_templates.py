@@ -1,6 +1,7 @@
 # ---
 # jupyter:
 #   jupytext:
+#     cell_metadata_filter: all
 #     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
@@ -12,6 +13,8 @@
 #     language: python
 #     name: python3
 # ---
+
+# %% tags=["parameters"]
 
 # %% [markdown]
 # ## Setup
@@ -132,7 +135,7 @@ get_course_name(0, ID_DF)
 # #### Courses
 
 # %%
-def read_course_templates(jinja_env, 
+def read_course_templates(jinja_env,
                           template_filename='notas.html.jinja'):
     return jinja_env.get_template(template_filename)
 
@@ -149,7 +152,7 @@ for course_id_str in listdir(CONTENT_DIR):
 # #### Exam selection
 
 # %%
-def render_selection(jinja_env, result_dir, course_id, 
+def render_selection(jinja_env, result_dir, course_id,
                      course_name=None, id_df=None,
                      fuvest=False, enem=False,
                      fuvest_url=None, enem_url=None,
@@ -157,7 +160,7 @@ def render_selection(jinja_env, result_dir, course_id,
                      render_filename='vestibulares'):
     if course_name is None:
         course_name = get_course_name(course_id, id_df)
-    selection_template = jinja_env.get_template(template_filename) 
+    selection_template = jinja_env.get_template(template_filename)
     selection_website = selection_template.render(
         active_link='Notas',
         root_path='../../',
@@ -179,11 +182,11 @@ def render_selection(jinja_env, result_dir, course_id,
 # #### Course selection
 
 # %%
-def render_course_selection(jinja_env, result_dir, 
+def render_course_selection(jinja_env, result_dir,
                             all_courses_dict=None,
                             template_filename='cursos.html.jinja',
                             render_filename='cursos'):
-    courses_template = jinja_env.get_template(template_filename) 
+    courses_template = jinja_env.get_template(template_filename)
     courses_website = courses_template.render(
         active_link='Notas',
         root_path='../',
@@ -203,7 +206,7 @@ def render_courses(content_dir, jinja_env, id_df, result_dir):
     for course_id_str in listdir(content_dir):
         render_fuvest = False
         render_enem = False
-        
+
         course_dir = join(content_dir, course_id_str)
         if isdir(course_dir):
             course_id = int(course_id_str)
@@ -296,7 +299,7 @@ fuvest_essays
 def build_years_dict(essays_df):
     years_dict = {}
     for year, essays in essays_df.groupby('ano'):
-        essays_dict = {} 
+        essays_dict = {}
         for _, essay_series in essays.iterrows():
             essays_dict[essay_series['nota']] = essay_series.to_dict()
         years_dict[year] = essays_dict
@@ -357,7 +360,7 @@ def render_essays(jinja_env, essays_dir, result_dir,
         criteria = None
         if exam == 'enem':
             criteria = ['c1', 'c2', 'c3', 'c4', 'c5']
-        
+
         essay_template = jinja_env.get_template(essay_template_filename)
         essay_website = essay_template.render(
             years_dict=years_dict,
@@ -366,7 +369,7 @@ def render_essays(jinja_env, essays_dir, result_dir,
             active_link='Redações',
             root_path='../')
         save_website(essay_website, join(result_dir, exam+'.html'))
-    
+
     selection_template = jinja_env.get_template(selection_template_filename)
     selection_website = selection_template.render(
         active_link='Redações',

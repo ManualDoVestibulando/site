@@ -1,6 +1,7 @@
 # ---
 # jupyter:
 #   jupytext:
+#     cell_metadata_filter: all
 #     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
@@ -11,6 +12,8 @@
 #     display_name: Python 3
 #     name: python3
 # ---
+
+# %% tags=["parameters"]
 
 # %% id="DuZ9D3RvZtJo"
 import os
@@ -46,12 +49,12 @@ fuvest.head()
 def table_from_df(df, cols=None, manual_header=None, cells_format=None):
   if cols is None:
     cols = df.columns
-  
+
   if manual_header is not None:
     header_values = manual_header
   else:
     header_values = cols
-    
+
   data_list = [df[col] for col in cols]
   fig = go.Figure(data=go.Table(
       header=dict(values=header_values,
@@ -87,7 +90,7 @@ fuvest_grouped.groups
 # %% colab={"base_uri": "https://localhost:8080/", "height": 455} id="laWfawLaawJh" outputId="181a0ede-20c7-466f-b4c0-d20441cee1e4"
 fuvest_metrics_df = fuvest_grouped.agg(
   Mínimo=('nota_final', 'min'),
-  Máximo=('nota_final', 'max'), 
+  Máximo=('nota_final', 'max'),
   Médio=('nota_final', 'mean'),
 )
 fuvest_metrics_df
@@ -126,7 +129,7 @@ px.line(
   },
   category_orders={
       'modalidade': ['Ampla Concorrência (AC)',
-                     'Escola Pública (EP)', 
+                     'Escola Pública (EP)',
                      'Pretos, Pardos e Indígenas (PPI)'],
       'metric': ['Máximo', 'Médio', 'Mínimo'],
   },
@@ -141,7 +144,7 @@ def abbreviate_quota(plotly_annotation):
     if abbreviation in text:
       new_text = abbreviation
       break
-  
+
   return plotly_annotation.update(text=new_text)
 
 figs = []
@@ -165,7 +168,7 @@ for id, df in fuvest_metrics_df.groupby('id'):
     },
     category_orders={
         'modalidade': ['Ampla Concorrência (AC)',
-                      'Escola Pública (EP)', 
+                      'Escola Pública (EP)',
                       'Pretos, Pardos e Indígenas (PPI)'],
         'metric': ['Máximo', 'Médio', 'Mínimo'],
     },
@@ -203,7 +206,7 @@ def plot_metric_evolution(metrics_df, exam='fuvest'):
       if abbreviation in text:
         new_text = abbreviation
         break
-    
+
     return plotly_annotation.update(text=new_text)
 
   for id, df in metrics_df.groupby('id'):
@@ -226,7 +229,7 @@ def plot_metric_evolution(metrics_df, exam='fuvest'):
       },
       category_orders={
           'modalidade': ['Ampla Concorrência (AC)',
-                        'Escola Pública (EP)', 
+                        'Escola Pública (EP)',
                         'Pretos, Pardos e Indígenas (PPI)'],
           'metric': ['Máximo', 'Médio', 'Mínimo'],
       },
@@ -354,7 +357,7 @@ def plot_data_tables(exam_df, cols, header, cells_format, exam='fuvest'):
           plotly_fig_to_html(
             table_from_df(full_df, cols, header, cells_format),
             os.path.join(OUTPUT_PATH, str(id), exam,
-                         str(ano), f'{modalidade}.html')  
+                         str(ano), f'{modalidade}.html')
           )
 
 
@@ -375,7 +378,7 @@ enem_grouped.groups
 # %% colab={"base_uri": "https://localhost:8080/", "height": 455} id="Sbvkr2H_IscW" outputId="cc895dbd-dac9-4253-8eff-03459605bc7b"
 enem_metrics_df = enem_grouped.agg(
   Mínimo=('nota_final', 'min'),
-  Máximo=('nota_final', 'max'), 
+  Máximo=('nota_final', 'max'),
   Médio=('nota_final', 'mean'),
 )
 enem_metrics_df
@@ -420,9 +423,9 @@ ENEM_HEADER_COL_NAMES = [
 ENEM_COL_FORMATS = [None, '.2f', '.2f', '.2f', '.2f', '.3d', '.2f']
 
 plot_data_tables(enem,
-                 ENEM_TABLE_COL_NAMES, 
-                 ENEM_HEADER_COL_NAMES, 
-                 ENEM_COL_FORMATS, 
+                 ENEM_TABLE_COL_NAMES,
+                 ENEM_HEADER_COL_NAMES,
+                 ENEM_COL_FORMATS,
                  exam='enem')
 
 # %% id="HBNO1IRirrCP"

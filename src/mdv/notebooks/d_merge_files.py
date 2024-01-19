@@ -1,6 +1,7 @@
 # ---
 # jupyter:
 #   jupytext:
+#     cell_metadata_filter: all
 #     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
@@ -13,11 +14,18 @@
 #     name: python3
 # ---
 
+# %% tags=["parameters"]
+
 # %%
 import os
 import shutil
 
 import pandas as pd
+
+# %%
+if not were_files_manually_reviewed:
+    raise Exception('Files must be manually reviewed and review '
+                   +'results copied to 3_processed/ before proceeding')
 
 # %%
 FORM_INPUT_PATH = '../../data/3_processed/forms'

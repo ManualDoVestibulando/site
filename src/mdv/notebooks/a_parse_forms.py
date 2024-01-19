@@ -1,6 +1,7 @@
 # ---
 # jupyter:
 #   jupytext:
+#     cell_metadata_filter: all
 #     formats: ipynb,py:percent
 #     text_representation:
 #       extension: .py
@@ -8,7 +9,7 @@
 #       format_version: '1.3'
 #       jupytext_version: 1.13.8
 #   kernelspec:
-#     display_name: Python 3.10.1 64-bit
+#     display_name: 'Python 3.10.4 (''venv'': venv)'
 #     language: python
 #     name: python3
 # ---
@@ -17,23 +18,42 @@
 # ## Setup
 
 # %%
+try:
+    from .helper import fix_path
+except ImportError:
+    from helper import fix_path
+fix_path()
+
+# %% [markdown]
+# ### Libraries
+
+# %%
 import os
 
 import pandas as pd
+import numpy as np
+
+from mdv.config import DataDirectories, Exams
+
+# %% [markdown]
+# ### Parameters
 
 # %%
-FORM_DIR = '../../data/1_initial/forms'
-RESULT_DIR = '../../data/2_intermediate/forms'
+INPUT_DIR = DataDirectories.ONE.value / 'forms'
+OUTPUR_DIR = DataDirectories.TWO.value / 'forms'
+
+print(INPUT_DIR)
+print(OUTPUR_DIR)
 
 # %% [markdown]
 # ## Reading
 
 # %%
 form_list = []
-for form_filename in os.listdir(FORM_DIR):
+for form_filename in os.listdir(INPUT_DIR):
     year = os.path.splitext(form_filename)[0]
     print(year)
-    form_path = os.path.join(FORM_DIR, form_filename)
+    form_path = os.path.join(INPUT_DIR, form_filename)
     form_list.append(pd.read_csv(form_path))
 print(len(form_list))
 
@@ -161,38 +181,54 @@ enem_data.head()
 enem_results = pd.concat([unidade_curso_df[enem_mask], enem_data], axis=1)
 enem_results.head()
 
+# %%
+np.nonzero(list(enem_results.ano.isna()))
+
+
 # %% [markdown]
 # ## Merging all collected data
 
 # %%
-for form_filename in os.listdir(FORM_DIR):
-    form_path = os.path.join(FORM_DIR, form_filename)
-    form_df = pd.read_csv(form_path)
+def parse_exam_results(row, exam_name=''):
+    lower_exam_name = exam_name.lower()
+    if 'enem' in lower_exam_name:
+        return parse_enem_results(row)
+    elif 'fuvest' in lower_exam_name:
+        return parse_fuvest_results(row)
+    else:
+        raise ValueError(f'Unknown exam {exam_name}')
 
-    unidade_series = merge_nan_cols(form_df,
-        r'^Unidade|unidade \(')
-    curso_series = merge_nan_cols(form_df,
-        r'Curso')
-    unidade_curso_df = pd.DataFrame({
-        'unidade': unidade_series,
-        'curso': curso_series,
-    })
-
-    fuvest_mask = form_df['Forma de ingresso'].str.contains('Fuvest')
-    enem_mask = form_df['Forma de ingresso'].str.contains('Enem')
-
-    fuvest_raw = form_df[fuvest_mask]
-    enem_raw = form_df[enem_mask]
-
-    fuvest_data = fuvest_raw.apply(parse_fuvest_results, axis=1)
-    enem_data = enem_raw.apply(parse_enem_results, axis=1)
-
-    fuvest = pd.concat([unidade_curso_df[fuvest_mask], fuvest_data],
-                       axis=1)
-    enem = pd.concat([unidade_curso_df[enem_mask], enem_data],
-                     axis=1)
-
-    fuvest.convert_dtypes().to_csv(os.path.join(RESULT_DIR, 'fuvest', form_filename), index=None) 
-    enem.convert_dtypes().to_csv(os.path.join(RESULT_DIR, 'enem', form_filename), index=None) 
 
 # %%
+def parse_forms(data_directories: DataDirectories,
+                exams: Exams) -> None:
+    input_dir = data_directories.ONE.value / 'forms'
+    for form_path in input_dir.iterdir():
+        form_df = pd.read_csv(form_path)
+
+        unidade_series = merge_nan_cols(form_df,
+            r'^Unidade|unidade \(')
+        curso_series = merge_nan_cols(form_df,
+            r'Curso')
+        unidade_curso_df = pd.DataFrame({
+            'unidade': unidade_series,
+            'curso': curso_series,
+        })
+
+        for exam in exams:
+            exam_mask = form_df['Forma de ingresso'].str.contains(exam.value)
+            exam_raw = form_df[exam_mask]
+
+            exam_data = exam_raw.apply(parse_exam_results,
+                                       exam_name=exam.value,
+                                       axis=1)
+            exam_results = pd.concat([unidade_curso_df[exam_mask], exam_data],
+                                      axis=1)
+
+            output_dir = data_directories.TWO.value / 'forms' / exam.name.lower()
+            output_path = output_dir / (form_path.stem + '.csv')
+            exam_results.convert_dtypes().to_csv(output_path, index=False)
+
+
+# %%
+parse_forms(DataDirectories, Exams)
