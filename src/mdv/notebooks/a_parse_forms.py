@@ -97,11 +97,16 @@ unidade_series = merge_nan_cols(example_form, r'^Unidade|unidade \(')
 unidade_series
 
 # %%
-curso_series = merge_nan_cols(example_form, r'Curso')
+curso_series: pd.Series = merge_nan_cols(example_form, r'Curso')
 curso_series
 
 # %%
+id_series = curso_series.str.extract(r'\((\d+)\)', expand=False)
+id_series
+
+# %%
 unidade_curso_df = pd.DataFrame({
+    'id': id_series,
     'unidade': unidade_series,
     'curso': curso_series,
 })
@@ -210,7 +215,15 @@ def parse_forms(data_directories: DataDirectories,
             r'^Unidade|unidade \(')
         curso_series = merge_nan_cols(form_df,
             r'Curso')
+
+        id_regex = r'\((\d+)\)'
+        id_series = curso_series.str.extract(
+            id_regex, expand=False)
+        curso_series = curso_series.str.replace(
+            id_regex, '', regex=True).str.strip()
+
         unidade_curso_df = pd.DataFrame({
+            'id': id_series,
             'unidade': unidade_series,
             'curso': curso_series,
         })
