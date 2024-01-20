@@ -13,7 +13,12 @@
 #     name: python3
 # ---
 
-# %% tags=["parameters"]
+# %%
+try:
+    from .helper import fix_path
+except ImportError:
+    from helper import fix_path
+fix_path()
 
 # %% id="DuZ9D3RvZtJo"
 import os
@@ -23,9 +28,11 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 
+from mdv.config import DataDirectories
+
 # %% id="QSI1tOa2Z-4A"
-INPUT_PATH = '../../data/4_final/forms'
-OUTPUT_PATH = '../../data/5_content'
+INPUT_PATH = DataDirectories.FOUR.value / 'forms'
+OUTPUT_PATH = DataDirectories.FIVE.value
 
 # %% [markdown] id="HUixgzJbeG4y"
 # ## Reading
@@ -427,5 +434,3 @@ plot_data_tables(enem,
                  ENEM_HEADER_COL_NAMES,
                  ENEM_COL_FORMATS,
                  exam='enem')
-
-# %% id="HBNO1IRirrCP"

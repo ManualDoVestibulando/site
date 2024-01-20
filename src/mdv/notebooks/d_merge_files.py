@@ -14,7 +14,12 @@
 #     name: python3
 # ---
 
-# %% tags=["parameters"]
+# %%
+try:
+    from .helper import fix_path
+except ImportError:
+    from helper import fix_path
+fix_path()
 
 # %%
 import os
@@ -22,18 +27,23 @@ import shutil
 
 import pandas as pd
 
+from mdv.config import DataDirectories
+
+# %%
+were_files_manually_reviewed = True
+
 # %%
 if not were_files_manually_reviewed:
     raise Exception('Files must be manually reviewed and review '
                    +'results copied to 3_processed/ before proceeding')
 
 # %%
-FORM_INPUT_PATH = '../../data/3_processed/forms'
-FORM_OUTPUT_PATH = '../../data/4_final/forms'
-VACANCIES_INPUT_PATH = '../../data/3_processed/vagas'
-VACANCIES_OUTPUT_PATH = '../../data/4_final'
-ESSAY_INPUT_PATH = '../../data/3_processed/redacoes'
-ESSAY_OUTPUT_PATH = '../../data/4_final/redacoes'
+FORM_INPUT_PATH = DataDirectories.THREE.value / 'forms'
+FORM_OUTPUT_PATH = DataDirectories.FOUR.value / 'forms'
+VACANCIES_INPUT_PATH = DataDirectories.THREE.value / 'vagas'
+VACANCIES_OUTPUT_PATH = DataDirectories.FOUR.value
+ESSAY_INPUT_PATH = DataDirectories.THREE.value / 'redacoes'
+ESSAY_OUTPUT_PATH = DataDirectories.FOUR.value / 'redacoes'
 
 # %% [markdown]
 # ## Forms
@@ -73,5 +83,3 @@ for exam in os.listdir(ESSAY_INPUT_PATH):
             exam_essays_list.append(essays_df)
         exam_essays_df = pd.concat(exam_essays_list)
         exam_essays_df.to_csv(os.path.join(ESSAY_OUTPUT_PATH, exam + '.csv'), index=False)
-
-# %%

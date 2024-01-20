@@ -14,10 +14,15 @@
 #     name: python3
 # ---
 
-# %% tags=["parameters"]
-
 # %% [markdown]
 # ## Setup
+
+# %%
+try:
+    from .helper import fix_path
+except ImportError:
+    from helper import fix_path
+fix_path()
 
 # %%
 from os import listdir, makedirs
@@ -27,14 +32,16 @@ from unidecode import unidecode
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 import pandas as pd
 
-# %%
-TEMPLATES_DIR = '../../templates'
-CONTENT_DIR = '../../data/5_content'
-GRADES_RESULT_DIR = '../../website/notas'
+from mdv.config import DataDirectories, REPOSITORY_ROOT
 
-ID_TABLE_PATH = '../../data/4_final/vagas.csv'
-ESSAYS_DIR = '../../data/4_final/redacoes'
-ESSAYS_RESULT_DIR = '../../website/redacoes'
+# %%
+TEMPLATES_DIR = REPOSITORY_ROOT / 'templates'
+CONTENT_DIR = DataDirectories.FIVE.value
+GRADES_RESULT_DIR = REPOSITORY_ROOT / 'website/notas'
+
+ID_TABLE_PATH = DataDirectories.FOUR.value / 'vagas.csv'
+ESSAYS_DIR = DataDirectories.FOUR.value / 'redacoes'
+ESSAYS_RESULT_DIR = REPOSITORY_ROOT / 'website/redacoes'
 
 
 # %% [markdown]

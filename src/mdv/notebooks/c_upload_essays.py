@@ -105,11 +105,8 @@ def upload_images(exam: str, image_dir: Path, base_view_url: str) -> pd.DataFram
         print(image_path.stem)
         essay_information = image_path.stem.split('_')[0].split('-')
         essay_information_dict = update_essay_information_dict(exam, essay_information)
-        with open(image_path, 'rb') as f:
-            image_bytes = f.read()
-
-        # drive_id = upload_share_png_bytes(image_path.name, image_bytes)
-        drive_id = 'dummy'
+        with image_path.open('rb') as image_file:
+            drive_id = upload_share_png_bytes(image_path.name, image_file)
 
         essay_information_dict['drive_id'] = drive_id
         essay_information_dict['url'] = base_view_url.format(drive_id)
@@ -126,7 +123,7 @@ DRIVE_VIEW_BASE_URL = 'https://drive.google.com/file/d/{}/view'
 for exam in Exams:
     exam_name = exam.name.lower()
     exam_input_dir = INPUT_DIR / exam_name / EssaysConfig.YEAR.value / EssaysConfig.NO_REVISION_DIR.value
+    print(exam_input_dir)
     exam_output_path = OUTPUT_DIR /  exam_name / (EssaysConfig.YEAR.value+'.csv')
     exam_essay_df = upload_images(exam_name, exam_input_dir, DRIVE_VIEW_BASE_URL)
-    print(exam_essay_df)
-    # exam_essay_df.to_csv(exam_output_path, index=False)
+    exam_essay_df.to_csv(exam_output_path, index=False)
