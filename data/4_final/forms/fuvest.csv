@@ -1,163 +1,4 @@
 id,unidade,curso,ano,modalidade,chamada,nota_1,nota_2_1,nota_2_2,nota_final,nota_redacao,classificacao_carreira,classificacao_curso,redacao
-27,ECA,Bacharelado em Relações Públicas diurno,2022,Escola Pública (EP),Primeira,53.0,66.0,52.5,591.3,36.5,3.0,3.0,https://drive.google.com/open?id=1bZynTl-vkNXYB4ewKgVgQSDoBBBDuBoO
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,72.0,75.0,83.33,794.44,43.5,75.0,37.0,https://drive.google.com/open?id=1n83idcEOpW-Mnfe1zu2DH3c0ZEnMsJEW
-53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Terceira,61.0,48.0,29.17,483.15,25.0,291.0,53.0,
-53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Primeira,62.0,54.5,29.17,508.52,32.0,780.0,28.0,https://drive.google.com/open?id=1urXYQydrACl0VjNfEk2ugGWyckgdYbGD
-15,EACH,Marketing noturno,2022,Escola Pública (EP),Primeira,55.0,61.0,36.0,528.0,31.0,6.0,6.0,https://drive.google.com/open?id=14iXNnO4r8jog47-MDAuQoYGeTJ8Sq5pM
-50,EESC,Engenharia Mecatrônica,2022,Escola Pública (EP),Primeira,67.0,46.5,52.5,578.15,28.0,17.0,15.0,
-48,EESC,Engenharia Aeronáutica,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,57.0,58.5,43.33,550.56,36.5,2.0,2.0,https://drive.google.com/open?id=1qi7eOZZc1Y3tSPPIKHNZJvmYRfJ6yg9s
-110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,60.0,60.17,58.33,617.22,33.67,51.0,50.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,74.0,60.5,87.5,767.41,37.0,161.0,111.0,https://drive.google.com/open?id=1OrtTsdQx732XHHQnJHuMSKUD1nHG9XzA
-74,FCF,Farmácia diurno,2022,Ampla Concorrência (AC),Primeira,78.0,72.5,73.33,775.0,44.0,2.0,2.0,
-162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Primeira,85.0,78.0,92.5,883.15,41.5,1.0,1.0,https://drive.google.com/open?id=19wvnRDRQH_m00uiRKCe2BhTDY4IED6Gx
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,80.0,61.0,87.5,791.3,38.5,88.0,44.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,72.0,67.0,79.0,753.0,47.5,216.0,55.0,
-56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,70.0,64.0,78.33,733.7,35.0,343.0,69.0,https://drive.google.com/open?id=1lP9zauYZCZjfqbnnKxebxO15jYHKaAHJ
-59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,81.0,75.0,90.83,852.78,41.0,11.0,3.0,https://drive.google.com/open?id=1vWMbtYpbbvqxwRgkjxyoODCZU_S6CsOV
-62,Poli,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Primeira,80.0,71.5,82.5,809.63,37.0,45.0,31.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,57.0,49.5,57.5,567.78,28.5,121.0,67.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,78.0,61.0,83.33,770.0,33.5,6.0,4.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,63.0,44.0,46.0,535.56,33.0,173.0,102.0,https://drive.google.com/open?id=172frtOsFWfCKgOC7A8ITnNLg7Jh_CejV
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,82.0,69.0,90.83,836.48,36.0,21.0,14.0,
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,76.0,68.0,86.0,793.0,33.0,79.0,39.0,
-56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,72.0,50.0,86.67,722.22,24.5,412.0,82.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,60.0,45.5,10.0,407.22,30.0,69.0,46.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,60.0,51.5,45.0,543.89,26.5,161.0,92.0,
-53,Poli,Engenharia Ambiental,2022,Ampla Concorrência (AC),Primeira,71.0,75.5,71.67,753.52,43.0,224.0,39.0,https://drive.google.com/open?id=1PONTIYcx72bD8M2a0ACZd-3kdUmobY27
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,78.0,71.5,83.33,805.0,40.0,54.0,29.0,https://drive.google.com/open?id=14vXg-7W32X8wCkQukQ8xhiKX7mCbbYuR
-58,Poli,Engenharia de Petróleo,2022,Ampla Concorrência (AC),Primeira,74.0,50.0,81.67,712.96,25.0,478.0,37.0,
-55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,73.0,59.0,57.5,658.7,30.0,43.0,27.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,75.0,55.0,86.67,751.67,26.0,235.0,164.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,76.0,65.83,76.67,756.48,33.33,208.0,53.0,
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,83.0,82.0,95.0,897.41,43.0,1.0,1.0,https://drive.google.com/open?id=1bO3mj_5c5oo4bR_zzvwggmc2TL2KpEa3
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Segunda,77.0,52.5,85.83,746.3,29.0,262.0,182.0,
-59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,79.0,69.0,92.5,830.93,36.5,24.0,5.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,82.0,78.0,96.67,885.93,45.0,2.0,1.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,72.0,66.5,82.5,763.33,41.0,178.0,46.0,https://drive.google.com/open?id=1DSQDxaYRr1AZUS6JhxnCtMDDHWhVyzVv
-152,IF,Física – Bacharelado diurno,2022,Escola Pública (EP),Primeira,62.0,63.0,54.17,620.19,36.0,11.0,7.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,74.0,59.5,85.83,758.52,31.0,202.0,138.0,
-56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,83.0,57.0,89.17,794.63,36.0,74.0,22.0,
-61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,72.0,74.5,78.33,776.11,40.0,132.0,76.0,https://drive.google.com/open?id=1QakA3L7YyqKzEMMombvAHd_6Ji02Hi2_
-152,IF,Física – Bacharelado diurno,2022,Escola Pública (EP),Terceira,61.0,40.5,40.83,497.04,20.0,56.0,30.0,https://drive.google.com/open?id=1nvHqGwOSf2_otXNWbWnudYJuAOj4-qGM
-53,Poli,Engenharia Ambiental,2022,Ampla Concorrência (AC),Primeira,76.0,59.5,70.83,715.93,33.0,457.0,81.0,
-54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Terceira,72.0,61.5,75.0,721.67,29.5,414.0,133.0,
-54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,68.0,38.5,70.83,616.39,23.0,72.0,21.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,81.0,59.0,90.83,799.44,30.0,66.0,15.0,
-54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,75.0,63.0,75.0,740.0,32.0,296.0,80.0,
-112,FFLCH,Letras – Bach./Lic. noturno,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,36.0,55.5,34.17,432.22,36.0,31.0,30.0,https://drive.google.com/open?id=17exdTkTZvw6aIGQFuTyqRmurZputYgYl
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,80.0,76.0,70.0,782.96,46.5,108.0,56.0,https://drive.google.com/open?id=19A_zONY3qwZqwbqOYqUv3Q2WzSCJRjk8
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,74.0,68.0,74.17,747.96,35.0,254.0,175.0,
-55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,70.0,64.0,65.0,689.26,40.0,29.0,19.0,https://drive.google.com/open?id=1ceSw8Et-QtOgxgjzDbT8PGvHakPY_qhF
-55,Poli,Engenharia de Computação,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,54.0,58.0,46.67,548.89,36.5,9.0,8.0,https://drive.google.com/open?id=1S4l6HMBaz-J7b_VC-8dmHnLJuF95fwmc
-64,Poli,Engenharia Química (quadrimestral),2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,56.0,56.0,33.33,505.19,28.5,21.0,7.0,
-85,FEA,Bacharelado em Ciências Econômicas,2022,Ampla Concorrência (AC),Terceira,67.0,54.0,69.17,658.7,26.5,127.0,118.0,
-59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,72.0,78.0,82.0,803.0,43.0,55.0,14.0,https://drive.google.com/open?id=154CymWV3bezjTlv1k2FZaRRj9Gqp1ZUb
-54,Poli,Engenharia Civil,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,41.0,36.0,14.17,319.07,26.5,139.0,47.0,
-57,Poli,Engenharia de Minas,2022,Ampla Concorrência (AC),Segunda,72.0,58.0,72.5,701.67,33.0,554.0,54.0,
-62,Poli,Engenharia Mecatrônica,2022,Escola Pública (EP),Primeira,64.0,45.5,66.7,610.93,30.0,76.0,45.0,https://drive.google.com/open?id=1qP_0nw7_jwJaD6R8m_2_-ezdBlgf0N6s
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,78.0,66.5,85.83,796.67,36.0,1.0,1.0,https://drive.google.com/open?id=1MFrQY7MNikP_vWOfqrrwEltVwJ4CzorF
-107,FFLCH,Geografia - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,69.0,59.0,64.17,666.11,36.5,3.0,3.0,https://drive.google.com/open?id=1EJ332iCfL_wykSWoJSDtLrMRf6B4lEjv
-84,FEA,Bacharelado em Ciências Econômicas,2022,Ampla Concorrência (AC),Primeira,71.0,64.5,65.0,694.63,41.0,45.0,44.0,
-123,FMRP,Informática Biomédica,2022,Ampla Concorrência (AC),Segunda,64.0,40.5,25.83,458.15,23.0,11.0,11.0,https://drive.google.com/open?id=1IiQqMIzgWM17k2iHwNz6yxcjmYh48ymQ
-61,Poli,Engenharia Mecânica,2022,Escola Pública (EP),Primeira,63.0,58.0,41.67,565.56,35.0,126.0,58.0,
-55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,80.0,55.0,78.33,740.74,29.5,12.0,10.0,
-162,IME,Bacharelado em Ciência da Computação,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,60.0,50.0,29.17,486.11,32.0,9.0,9.0,
-75,FCF,Farmácia noturno,2022,Escola Pública (EP),Primeira,60.0,62.5,43.33,575.0,34.5,17.0,17.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,76.0,66.0,77.5,759.81,33.0,194.0,133.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,50.0,40.5,32.5,428.52,31.5,38.0,38.0,https://drive.google.com/open?id=1EEiYP_xUXCR5-OoJlbnSn87jXTAb_P-8
-111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,60.0,74.0,66.0,687.0,44.0,17.0,17.0,https://drive.google.com/open?id=1efjj9KavPPQH0b00IEL3iDEq1lPtPDJu
-75,FCF,Farmácia noturno,2022,Escola Pública (EP),Primeira,68.0,57.0,55.0,625.19,32.0,7.0,7.0,
-169,IO,Bacharelado em Oceanografia,2021,Ampla Concorrência (AC),Primeira,60.0,61.5,57.5,618.89,37.0,7.0,7.0,
-111,FFLCH,Letras – Bach./Lic. diurno,2022,Escola Pública (EP),Primeira,60.0,65.5,46.67,596.11,41.0,8.0,8.0,https://drive.google.com/open?id=1pvM5VLmwMJe1HEtko8pE0GtbwmyuQcYG
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,84.0,55.5,91.67,801.67,31.0,60.0,41.0,https://drive.google.com/open?id=1Ld9-YMZCv2K8dq2kTPFjr7b1R1058hfs
-54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,77.0,57.5,77.5,735.19,32.0,335.0,97.0,https://drive.google.com/open?id=1IZrfScTOTo2mszlToOoWKjj3f2XR9n8S
-64,Poli,Engenharia Química (quadrimestral),2022,Escola Pública (EP),Primeira,62.0,45.0,52.5,554.63,28.0,141.0,41.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Segunda,71.0,71.5,75.0,751.3,39.5,237.0,60.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Escola Pública (EP),Segunda,72.0,50.5,35.0,551.67,35.0,147.0,43.0,https://drive.google.com/open?id=1mLPw-mTyIiifPmhZj4tn8QR4Q7E1kygl
-64,Poli,Engenharia Química (quadrimestral),2022,Escola Pública (EP),Primeira,67.0,53.5,82.5,701.48,28.0,25.0,8.0,
-64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Segunda,74.0,66.5,75.83,748.52,33.0,250.0,65.0,
-153,IF,Física – Bacharelado noturno,2022,Ampla Concorrência (AC),Primeira,69.0,55.5,51.67,612.78,28.5,165.0,78.0,
-53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Primeira,59.0,57.0,41.67,521.48,37.0,189.0,31.0,
-55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,77.0,61.17,88.33,783.52,34.67,105.0,53.0,https://drive.google.com/open?id=1rGino4rLN_4jvMZ_39f-OHoC2pFvleYv
-17,ECA,Artes Visuais - Bach. e Lic. noturno,2022,Escola Pública (EP),Primeira,57.0,57.0,47.0,610.0,39.0,9.0,9.0,
-53,Poli,Engenharia Ambiental,2021,Escola Pública (EP),Primeira,62.0,61.5,48.33,595.74,36.5,127.0,18.0,https://drive.google.com/open?id=1q6Jle7zvCGLn0Fuy67211REORlzVCXD3
-63,Poli,Engenharia Naval,2022,Ampla Concorrência (AC),Primeira,71.0,62.5,71.67,710.19,39.0,494.0,51.0,
-61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,81.0,65.0,89.17,813.89,36.5,39.0,26.0,https://drive.google.com/open?id=1NzezVV0lzlFLabRbHBj3E9HuJfDaGuPu
-54,Poli,Engenharia Civil,2022,Escola Pública (EP),Segunda,57.0,55.0,27.5,486.11,32.0,74.0,280.0,
-17,ECA,Artes Visuais - Bach. e Lic. noturno,2022,Escola Pública (EP),Primeira,55.0,59.0,50.83,654.29,36.5,4.0,4.0,https://drive.google.com/open?id=1sCl8njCRtkhu397lnRikLoHlnv9zv7ZW
-146,ICMC,bcc,2022,Escola Pública (EP),Primeira,70.0,53.0,55.0,619.26,31.0,21.0,18.0,https://drive.google.com/open?id=1wOnB7huROiWvUR2BQk3QhChNDeneTMIY
-162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Primeira,74.0,71.5,80.0,779.07,39.5,9.0,9.0,https://drive.google.com/open?id=1js-KycI2vUs7XM6zappkKrwmU5Xq4VYp
-168,IME,Bach. em Matemática Aplicada e Computacional,2022,Escola Pública (EP),Primeira,60.0,70.0,42.5,597.22,36.0,17.0,3.0,
-61,Poli,Engenharia Mecânica,2022,Escola Pública (EP),Primeira,67.0,52.5,77.5,681.48,29.5,33.0,19.0,https://drive.google.com/open?id=1zYDmpjKzUUUSxWcHOMdTy2ZvSSK0fioX
-152,IF,Física – Bacharelado diurno,2022,Ampla Concorrência (AC),Segunda,67.0,66.0,57.5,659.81,33.0,91.0,64.0,
-165,IME,Estatística - Bacharelado diurno,2022,Ampla Concorrência (AC),Primeira,73.0,66.0,55.83,676.48,38.5,72.0,12.0,
-17,ECA,Artes Visuais - Bach. e Lic. noturno,2022,Escola Pública (EP),Primeira,52.0,58.0,55.83,680.82,31.5,2.0,2.0,
-80,FEA,Bacharelado em Administração,2022,Escola Pública (EP),Primeira,61.0,59.0,54.0,600.0,38.0,24.0,10.0,
-59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Segunda,78.0,65.0,76.67,761.11,34.5,190.0,64.0,
-22,ECA,Bach. Com. Social: Publicidade e Propaganda diurno,2022,Ampla Concorrência (AC),Primeira,66.0,65.5,56.67,651.67,38.0,8.0,8.0,
-59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,78.0,69.0,77.5,777.22,43.0,127.0,45.0,https://drive.google.com/open?id=1lTTxep4MNmrXKhmemUy7Kr02tNLz5zRa
-61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,81.0,66.0,85.83,806.11,38.0,52.0,33.0,https://drive.google.com/open?id=1tLTF63rBuj9N0FatUSB-2OvZ2MvcE7N7
-54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,76.0,56.0,81.67,740.37,32.0,298.0,82.0,
-0,EACH,Bacharelado em Sistemas de Informação diurno,2022,Ampla Concorrência (AC),Terceira,64.0,64.0,55.83,636.48,29.5,142.0,98.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Lista de espera - Primeira,72.0,66.5,73.33,732.78,36.0,343.0,234.0,
-48,EESC,Engenharia Aeronáutica,2022,Escola Pública (EP),Primeira,68.0,45.0,57.5,593.52,26.5,7.0,7.0,
-170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,70.0,65.0,55.0,659.26,43.0,1.0,1.0,https://drive.google.com/open?id=1tFK_UiYTaSf9EVu0ZM5xzrGQtXfJfWWX
-29,ECA,Curso Superior do Audiovisual,2022,Escola Pública (EP),Primeira,64.0,73.0,59.17,677.59,36.0,1.0,1.0,https://drive.google.com/open?id=11jqf-I6_HEZS0ubUm5IW3OTnlOVvmYUE
-29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,79.0,64.0,55.0,689.26,33.5,7.0,7.0,https://drive.google.com/open?id=1yXkVCn15t0fVT3EDOVCNOyCyv4pnm3xW
-29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,68.0,69.5,58.33,677.96,35.0,11.0,11.0,https://drive.google.com/open?id=1it7tEMCJvYRaUrPHPm7G2q8xm5pljw0v
-29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,74.0,67.5,50.83,668.52,45.0,15.0,15.0,https://drive.google.com/open?id=1UaorNEJTqOLVWhi_CtVavHX2QnUhEsib
-29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,79.0,60.0,59.0,688.0,30.0,88.0,88.0,
-29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,65.0,64.5,63.33,666.85,40.0,17.0,17.0,https://drive.google.com/open?id=1imBxDNeYUnU0IGqlTCX8PUZShyy66xkq
-62,Poli,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Segunda,77.0,66.0,75.83,757.96,36.5,111.0,111.0,
-109,FFLCH,História - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,62.0,56.5,55.0,601.3,32.0,64.0,64.0,https://drive.google.com/open?id=1nKoAdF1aWDYvztElMAcm6gmPcMsIM1px
-109,FFLCH,História - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,68.0,63.0,53.33,639.63,41.0,31.0,31.0,https://drive.google.com/open?id=1WhCjByOhpcULEpkRUx7ruh3pTbDsyfP3
-110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,66.0,49.0,57.5,599.44,25.0,69.0,68.0,
-111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,62.0,65.5,54.17,628.52,40.0,63.0,62.0,
-141,IAG,Bacharelado em Meteorologia,2022,Ampla Concorrência (AC),Primeira,62.0,44.5,41.67,516.85,28.0,379.0,22.0,
-110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,68.0,74.5,68.33,727.96,42.0,3.0,3.0,https://drive.google.com/open?id=1kwIANxrKgwKOVJCPANe1q982RrWq1dOh
-77,FD,Direito diurno,2022,Escola Pública (EP),Primeira,65.0,66.0,49.17,624.63,38.5,31.0,28.0,https://drive.google.com/open?id=1uEOf78dn21TpySkLoF0jzPdtgRc-XatL
-54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,78.0,63.0,77.5,757.22,39.5,205.0,47.0,https://drive.google.com/open?id=1Jwr5nLgfMfuRGc-LWcvGi49oaZqF7CAO
-110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,68.0,71.5,55.0,673.52,38.0,13.0,13.0,https://drive.google.com/open?id=1cbcwnlo5B4pCzbVoLmfP0fVy9oC08YkS
-112,FFLCH,Letras – Bach./Lic. noturno,2022,Ampla Concorrência (AC),Lista de espera - Primeira,52.0,50.5,39.17,491.48,33.0,490.0,474.0,https://drive.google.com/open?id=1FT-EMYFU7GQF5b8sfgvoRy1hCU96LZNb
-109,FFLCH,História - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Segunda,69.0,51.5,42.5,568.89,28.5,106.0,106.0,
-110,FFLCH,História - Bach./Lic. noturno,2022,Escola Pública (EP),Primeira,54.0,46.5,50.0,521.67,24.5,36.0,36.0,https://drive.google.com/open?id=19A839JNhnrnLaiU3NQEXcWE6ULzlfsOW
-167,IME,Matemática Aplicada - Bacharelado,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,57.0,52.0,31.67,490.0,33.0,7.0,3.0,
-69,ESALQ,Ciências Econômicas - Bacharelado,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,56.0,61.0,36.0,532.0,36.0,1.0,1.0,https://drive.google.com/open?id=1WGvBLLaYCOHhy4Yq1lCzGodYdH2Kn4fS
-69,ESALQ,Ciências Econômicas - Bacharelado,2022,Ampla Concorrência (AC),Primeira,68.0,62.5,47.5,622.22,35.0,3.0,3.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,79.0,64.5,73.33,752.04,37.0,233.0,162.0,
-103,FFLCH,Ciências Sociais - Bach./Lic. diurno,2022,Escola Pública (EP),Primeira,55.0,57.0,36.67,515.93,30.0,22.0,21.0,
-60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,68.0,49.0,45.0,565.19,28.5,128.0,72.0,
-110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,50.0,66.5,47.5,565.19,40.0,117.0,116.0,https://drive.google.com/open?id=17Txnpbff0hrKHKR_oSCFI3ZiDndHMg93
-55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,71.0,47.0,74.0,662.0,26.0,39.0,24.0,
-111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,50.0,57.0,45.0,525.19,30.0,321.0,318.0,
-111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,59.0,52.0,44.17,539.07,32.0,263.0,260.0,https://drive.google.com/open?id=1qgYEATyk96ZnoC4pwZYQCz4eaV9RYgSe
-61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,75.0,66.0,82.0,772.0,40.0,151.0,85.0,https://drive.google.com/open?id=1XYnGFfcuYAa_x0LTUNoJ2DpTnIIZNzlM
-170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,81.0,71.5,74.17,785.56,40.0,3.0,3.0,https://drive.google.com/open?id=1yyPVhQHCwAt7hlH0_XgwPPNRkfNM3We0
-170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,68.0,77.0,66.67,730.74,43.5,17.0,17.0,
-170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,74.0,65.5,72.5,734.07,41.5,16.0,16.0,
-54,Poli,Engenharia Civil,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,39.0,49.5,5.0,326.11,26.5,127.0,42.0,
-25,ECA,Bacharelado em Jornalismo diurno,2022,Ampla Concorrência (AC),Primeira,66.0,64.0,66.67,680.0,33.0,14.0,14.0,https://drive.google.com/open?id=10Wo6jmJnCqfc0i1yn3g_lM8sxgqruwmS
-1,EACH,Bacharelado em Sistemas de Informação noturno,2022,Ampla Concorrência (AC),Primeira,79.0,55.0,52.5,650.93,31.0,117.0,40.0,
-113,FM,Medicina,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,62.0,61.0,80.83,702.41,43.5,22.0,22.0,https://drive.google.com/open?id=1qIqZtAgIbGjSgWF5aXc9lF9p5fdlPjdR
-111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Lista de espera - Primeira,49.0,57.0,35.0,488.15,36.0,509.0,504.0,https://drive.google.com/open?id=1UFxaLCiY3nssozO4Ui2CqOuWstlMZNkO
-49,EESC,Engenharia Ambiental,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,47.0,37.0,13.0,338.0,23.0,3.0,3.0,
-80,FEA,Bacharelado em Administração,2022,Ampla Concorrência (AC),Lista de espera - Primeira,63.0,52.5,54.17,588.89,35.0,417.0,311.0,https://drive.google.com/open?id=1Pii-59u1A6TN7djo87UQ6cod82V1Nlw5
-58,Poli,Engenharia de Petróleo,2022,Escola Pública (EP),Lista de espera - Quarta,50.0,46.0,25.83,424.63,25.0,450.0,55.0,
-170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Lista de espera - Primeira,70.0,71.5,60.0,697.59,47.0,38.0,38.0,https://drive.google.com/open?id=1YJRGf6F3OxYxFEQcb7t5B6oCo7XX6oq0
-62,Poli,Engenharia Mecatrônica,2022,Escola Pública (EP),Primeira,74.0,56.0,55.83,646.85,36.0,53.0,28.0,https://drive.google.com/open?id=1hfVzR06Kb0dQJkVHdLu6ZUwn6jatffuO
-14,EACH,Marketing diurno,2022,Escola Pública (EP),Primeira,52.0,50.0,30.83,462.04,36.5,25.0,25.0,https://drive.google.com/open?id=1YYF4LIANsQsZjis3CPfUn3R7xBJxlZKS
-14,EACH,Marketing diurno,2022,Escola Pública (EP),Primeira,52.0,59.5,26.67,479.81,26.0,18.0,18.0,
-14,EACH,Marketing diurno,2021,Escola Pública (EP),Primeira,61.0,42.5,39.17,498.15,30.0,30.0,13.0,
-14,EACH,Marketing diurno,2022,Ampla Concorrência (AC),Primeira,63.0,59.0,39.17,560.56,35.0,12.0,12.0,https://drive.google.com/open?id=1Ifj8h8ulI1i51nuzu70SUmaRsMhv4iIW
-14,EACH,Marketing diurno,2022,Ampla Concorrência (AC),Primeira,62.0,50.0,46.67,551.85,31.5,20.0,20.0,https://drive.google.com/open?id=1n18LOtQ01IE9DOUu1dDiQXHPEene52pP
-15,EACH,Marketing noturno,2022,Ampla Concorrência (AC),Lista de espera - Quinta,51.0,46.0,44.17,489.44,25.0,57.0,55.0,
-57,Poli,Engenharia de Minas,2022,Escola Pública (EP),Primeira,61.0,39.0,30.0,455.93,24.5,354.0,25.0,
-33,EE,Enfermagem,2022,Ampla Concorrência (AC),Primeira,63.0,62.0,59.17,637.0,39.5,10.0,10.0,
-54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,72.0,59.0,60.83,666.11,38.0,38.0,15.0,https://drive.google.com/open?id=1HdhTE78nLOd48hmN1OVubHipCdYWWOfQ
-110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,57.0,55.0,50.0,561.11,31.5,123.0,122.0,
-6,EACH,Curso de Graduação em Obstetrícia,2022,Ampla Concorrência (AC),Primeira,54.0,48.9,38.9,489.44,31.0,24.0,24.0,https://drive.google.com/open?id=1vSYwBLvGsPe4pUVyNYbVVk8uVczaS_Xy
-56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,72.0,61.5,80.0,738.33,33.5,314.0,61.0,
-136,FZEA,Engenharia de Biossistemas,2022,Ampla Concorrência (AC),Primeira,68.0,29.0,50.83,517.96,28.0,8.0,8.0,
 4,EACH,Biotecnologia,2020,Escola Pública (EP),,51.0,51.88,31.25,465.9888889,30.0,32.0,,
 4,EACH,Biotecnologia,2020,Escola Pública (EP),,52.0,68.0,34.0,532.5925926,43.0,7.0,,
 4,EACH,Biotecnologia,2020,Escola Pública (EP),,60.0,55.0,41.67,544.4555556,31.5,5.0,,
@@ -2867,6 +2708,386 @@ id,unidade,curso,ano,modalidade,chamada,nota_1,nota_2_1,nota_2_2,nota_final,nota
 64,Poli,Engenharia Química,2021,Ampla Concorrência (AC),Primeira,73.0,65.0,80.0,753.7,36.5,187.0,51.0,https://drive.google.com/open?id=1n2VfnLp3O6HrYjlTWTfB3rigCmXTJ3SU
 64,Poli,Engenharia Química,2021,Ampla Concorrência (AC),Primeira,79.0,70.5,70.0,760.93,39.5,162.0,44.0,
 64,Poli,Engenharia Química,2021,Ampla Concorrência (AC),Primeira,74.0,69.0,75.0,754.07,35.0,182.0,50.0,
+27,ECA,Bacharelado em Relações Públicas diurno,2022,Escola Pública (EP),Primeira,53.0,66.0,52.5,591.3,36.5,3.0,3.0,https://drive.google.com/open?id=1bZynTl-vkNXYB4ewKgVgQSDoBBBDuBoO
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,72.0,75.0,83.33,794.44,43.5,75.0,37.0,https://drive.google.com/open?id=1n83idcEOpW-Mnfe1zu2DH3c0ZEnMsJEW
+53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Terceira,61.0,48.0,29.17,483.15,25.0,291.0,53.0,
+53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Primeira,62.0,54.5,29.17,508.52,32.0,780.0,28.0,https://drive.google.com/open?id=1urXYQydrACl0VjNfEk2ugGWyckgdYbGD
+15,EACH,Marketing noturno,2022,Escola Pública (EP),Primeira,55.0,61.0,36.0,528.0,31.0,6.0,6.0,https://drive.google.com/open?id=14iXNnO4r8jog47-MDAuQoYGeTJ8Sq5pM
+50,EESC,Engenharia Mecatrônica,2022,Escola Pública (EP),Primeira,67.0,46.5,52.5,578.15,28.0,17.0,15.0,
+48,EESC,Engenharia Aeronáutica,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,57.0,58.5,43.33,550.56,36.5,2.0,2.0,https://drive.google.com/open?id=1qi7eOZZc1Y3tSPPIKHNZJvmYRfJ6yg9s
+110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,60.0,60.17,58.33,617.22,33.67,51.0,50.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,74.0,60.5,87.5,767.41,37.0,161.0,111.0,https://drive.google.com/open?id=1OrtTsdQx732XHHQnJHuMSKUD1nHG9XzA
+74,FCF,Farmácia diurno,2022,Ampla Concorrência (AC),Primeira,78.0,72.5,73.33,775.0,44.0,2.0,2.0,
+162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Primeira,85.0,78.0,92.5,883.15,41.5,1.0,1.0,https://drive.google.com/open?id=19wvnRDRQH_m00uiRKCe2BhTDY4IED6Gx
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,80.0,61.0,87.5,791.3,38.5,88.0,44.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,72.0,67.0,79.0,753.0,47.5,216.0,55.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,70.0,64.0,78.33,733.7,35.0,343.0,69.0,https://drive.google.com/open?id=1lP9zauYZCZjfqbnnKxebxO15jYHKaAHJ
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,81.0,75.0,90.83,852.78,41.0,11.0,3.0,https://drive.google.com/open?id=1vWMbtYpbbvqxwRgkjxyoODCZU_S6CsOV
+62,Poli,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Primeira,80.0,71.5,82.5,809.63,37.0,45.0,31.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,57.0,49.5,57.5,567.78,28.5,121.0,67.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,78.0,61.0,83.33,770.0,33.5,6.0,4.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,63.0,44.0,46.0,535.56,33.0,173.0,102.0,https://drive.google.com/open?id=172frtOsFWfCKgOC7A8ITnNLg7Jh_CejV
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,82.0,69.0,90.83,836.48,36.0,21.0,14.0,
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,76.0,68.0,86.0,793.0,33.0,79.0,39.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,72.0,50.0,86.67,722.22,24.5,412.0,82.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,60.0,45.5,10.0,407.22,30.0,69.0,46.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,60.0,51.5,45.0,543.89,26.5,161.0,92.0,
+53,Poli,Engenharia Ambiental,2022,Ampla Concorrência (AC),Primeira,71.0,75.5,71.67,753.52,43.0,224.0,39.0,https://drive.google.com/open?id=1PONTIYcx72bD8M2a0ACZd-3kdUmobY27
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,78.0,71.5,83.33,805.0,40.0,54.0,29.0,https://drive.google.com/open?id=14vXg-7W32X8wCkQukQ8xhiKX7mCbbYuR
+58,Poli,Engenharia de Petróleo,2022,Ampla Concorrência (AC),Primeira,74.0,50.0,81.67,712.96,25.0,478.0,37.0,
+55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,73.0,59.0,57.5,658.7,30.0,43.0,27.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,75.0,55.0,86.67,751.67,26.0,235.0,164.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,76.0,65.83,76.67,756.48,33.33,208.0,53.0,
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,83.0,82.0,95.0,897.41,43.0,1.0,1.0,https://drive.google.com/open?id=1bO3mj_5c5oo4bR_zzvwggmc2TL2KpEa3
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Segunda,77.0,52.5,85.83,746.3,29.0,262.0,182.0,
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,79.0,69.0,92.5,830.93,36.5,24.0,5.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,82.0,78.0,96.67,885.93,45.0,2.0,1.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,72.0,66.5,82.5,763.33,41.0,178.0,46.0,https://drive.google.com/open?id=1DSQDxaYRr1AZUS6JhxnCtMDDHWhVyzVv
+152,IF,Física – Bacharelado diurno,2022,Escola Pública (EP),Primeira,62.0,63.0,54.17,620.19,36.0,11.0,7.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,74.0,59.5,85.83,758.52,31.0,202.0,138.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,83.0,57.0,89.17,794.63,36.0,74.0,22.0,
+61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,72.0,74.5,78.33,776.11,40.0,132.0,76.0,https://drive.google.com/open?id=1QakA3L7YyqKzEMMombvAHd_6Ji02Hi2_
+152,IF,Física – Bacharelado diurno,2022,Escola Pública (EP),Terceira,61.0,40.5,40.83,497.04,20.0,56.0,30.0,https://drive.google.com/open?id=1nvHqGwOSf2_otXNWbWnudYJuAOj4-qGM
+53,Poli,Engenharia Ambiental,2022,Ampla Concorrência (AC),Primeira,76.0,59.5,70.83,715.93,33.0,457.0,81.0,
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Terceira,72.0,61.5,75.0,721.67,29.5,414.0,133.0,
+54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,68.0,38.5,70.83,616.39,23.0,72.0,21.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Primeira,81.0,59.0,90.83,799.44,30.0,66.0,15.0,
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,75.0,63.0,75.0,740.0,32.0,296.0,80.0,
+112,FFLCH,Letras – Bach./Lic. noturno,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,36.0,55.5,34.17,432.22,36.0,31.0,30.0,https://drive.google.com/open?id=17exdTkTZvw6aIGQFuTyqRmurZputYgYl
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,80.0,76.0,70.0,782.96,46.5,108.0,56.0,https://drive.google.com/open?id=19A_zONY3qwZqwbqOYqUv3Q2WzSCJRjk8
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,74.0,68.0,74.17,747.96,35.0,254.0,175.0,
+55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,70.0,64.0,65.0,689.26,40.0,29.0,19.0,https://drive.google.com/open?id=1ceSw8Et-QtOgxgjzDbT8PGvHakPY_qhF
+55,Poli,Engenharia de Computação,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,54.0,58.0,46.67,548.89,36.5,9.0,8.0,https://drive.google.com/open?id=1S4l6HMBaz-J7b_VC-8dmHnLJuF95fwmc
+64,Poli,Engenharia Química (quadrimestral),2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,56.0,56.0,33.33,505.19,28.5,21.0,7.0,
+85,FEA,Bacharelado em Ciências Econômicas,2022,Ampla Concorrência (AC),Terceira,67.0,54.0,69.17,658.7,26.5,127.0,118.0,
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,72.0,78.0,82.0,803.0,43.0,55.0,14.0,https://drive.google.com/open?id=154CymWV3bezjTlv1k2FZaRRj9Gqp1ZUb
+54,Poli,Engenharia Civil,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,41.0,36.0,14.17,319.07,26.5,139.0,47.0,
+57,Poli,Engenharia de Minas,2022,Ampla Concorrência (AC),Segunda,72.0,58.0,72.5,701.67,33.0,554.0,54.0,
+62,Poli,Engenharia Mecatrônica,2022,Escola Pública (EP),Primeira,64.0,45.5,66.7,610.93,30.0,76.0,45.0,https://drive.google.com/open?id=1qP_0nw7_jwJaD6R8m_2_-ezdBlgf0N6s
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,78.0,66.5,85.83,796.67,36.0,1.0,1.0,https://drive.google.com/open?id=1MFrQY7MNikP_vWOfqrrwEltVwJ4CzorF
+107,FFLCH,Geografia - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,69.0,59.0,64.17,666.11,36.5,3.0,3.0,https://drive.google.com/open?id=1EJ332iCfL_wykSWoJSDtLrMRf6B4lEjv
+84,FEA,Bacharelado em Ciências Econômicas,2022,Ampla Concorrência (AC),Primeira,71.0,64.5,65.0,694.63,41.0,45.0,44.0,
+123,FMRP,Informática Biomédica,2022,Ampla Concorrência (AC),Segunda,64.0,40.5,25.83,458.15,23.0,11.0,11.0,https://drive.google.com/open?id=1IiQqMIzgWM17k2iHwNz6yxcjmYh48ymQ
+61,Poli,Engenharia Mecânica,2022,Escola Pública (EP),Primeira,63.0,58.0,41.67,565.56,35.0,126.0,58.0,
+55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,80.0,55.0,78.33,740.74,29.5,12.0,10.0,
+162,IME,Bacharelado em Ciência da Computação,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,60.0,50.0,29.17,486.11,32.0,9.0,9.0,
+75,FCF,Farmácia noturno,2022,Escola Pública (EP),Primeira,60.0,62.5,43.33,575.0,34.5,17.0,17.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,76.0,66.0,77.5,759.81,33.0,194.0,133.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,50.0,40.5,32.5,428.52,31.5,38.0,38.0,https://drive.google.com/open?id=1EEiYP_xUXCR5-OoJlbnSn87jXTAb_P-8
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,60.0,74.0,66.0,687.0,44.0,17.0,17.0,https://drive.google.com/open?id=1efjj9KavPPQH0b00IEL3iDEq1lPtPDJu
+75,FCF,Farmácia noturno,2022,Escola Pública (EP),Primeira,68.0,57.0,55.0,625.19,32.0,7.0,7.0,
+169,IO,Bacharelado em Oceanografia,2021,Ampla Concorrência (AC),Primeira,60.0,61.5,57.5,618.89,37.0,7.0,7.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Escola Pública (EP),Primeira,60.0,65.5,46.67,596.11,41.0,8.0,8.0,https://drive.google.com/open?id=1pvM5VLmwMJe1HEtko8pE0GtbwmyuQcYG
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,84.0,55.5,91.67,801.67,31.0,60.0,41.0,https://drive.google.com/open?id=1Ld9-YMZCv2K8dq2kTPFjr7b1R1058hfs
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,77.0,57.5,77.5,735.19,32.0,335.0,97.0,https://drive.google.com/open?id=1IZrfScTOTo2mszlToOoWKjj3f2XR9n8S
+64,Poli,Engenharia Química (quadrimestral),2022,Escola Pública (EP),Primeira,62.0,45.0,52.5,554.63,28.0,141.0,41.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Segunda,71.0,71.5,75.0,751.3,39.5,237.0,60.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Escola Pública (EP),Segunda,72.0,50.5,35.0,551.67,35.0,147.0,43.0,https://drive.google.com/open?id=1mLPw-mTyIiifPmhZj4tn8QR4Q7E1kygl
+64,Poli,Engenharia Química (quadrimestral),2022,Escola Pública (EP),Primeira,67.0,53.5,82.5,701.48,28.0,25.0,8.0,
+64,Poli,Engenharia Química (quadrimestral),2022,Ampla Concorrência (AC),Segunda,74.0,66.5,75.83,748.52,33.0,250.0,65.0,
+153,IF,Física – Bacharelado noturno,2022,Ampla Concorrência (AC),Primeira,69.0,55.5,51.67,612.78,28.5,165.0,78.0,
+53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Primeira,59.0,57.0,41.67,521.48,37.0,189.0,31.0,
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,77.0,61.17,88.33,783.52,34.67,105.0,53.0,https://drive.google.com/open?id=1rGino4rLN_4jvMZ_39f-OHoC2pFvleYv
+17,ECA,Artes Visuais - Bach. e Lic. noturno,2022,Escola Pública (EP),Primeira,57.0,57.0,47.0,610.0,39.0,9.0,9.0,
+53,Poli,Engenharia Ambiental,2021,Escola Pública (EP),Primeira,62.0,61.5,48.33,595.74,36.5,127.0,18.0,https://drive.google.com/open?id=1q6Jle7zvCGLn0Fuy67211REORlzVCXD3
+63,Poli,Engenharia Naval,2022,Ampla Concorrência (AC),Primeira,71.0,62.5,71.67,710.19,39.0,494.0,51.0,
+61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,81.0,65.0,89.17,813.89,36.5,39.0,26.0,https://drive.google.com/open?id=1NzezVV0lzlFLabRbHBj3E9HuJfDaGuPu
+54,Poli,Engenharia Civil,2022,Escola Pública (EP),Segunda,57.0,55.0,27.5,486.11,32.0,74.0,280.0,
+17,ECA,Artes Visuais - Bach. e Lic. noturno,2022,Escola Pública (EP),Primeira,55.0,59.0,50.83,654.29,36.5,4.0,4.0,https://drive.google.com/open?id=1sCl8njCRtkhu397lnRikLoHlnv9zv7ZW
+146,ICMC,bcc,2022,Escola Pública (EP),Primeira,70.0,53.0,55.0,619.26,31.0,21.0,18.0,https://drive.google.com/open?id=1wOnB7huROiWvUR2BQk3QhChNDeneTMIY
+162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Primeira,74.0,71.5,80.0,779.07,39.5,9.0,9.0,https://drive.google.com/open?id=1js-KycI2vUs7XM6zappkKrwmU5Xq4VYp
+168,IME,Bach. em Matemática Aplicada e Computacional,2022,Escola Pública (EP),Primeira,60.0,70.0,42.5,597.22,36.0,17.0,3.0,
+61,Poli,Engenharia Mecânica,2022,Escola Pública (EP),Primeira,67.0,52.5,77.5,681.48,29.5,33.0,19.0,https://drive.google.com/open?id=1zYDmpjKzUUUSxWcHOMdTy2ZvSSK0fioX
+152,IF,Física – Bacharelado diurno,2022,Ampla Concorrência (AC),Segunda,67.0,66.0,57.5,659.81,33.0,91.0,64.0,
+165,IME,Estatística - Bacharelado diurno,2022,Ampla Concorrência (AC),Primeira,73.0,66.0,55.83,676.48,38.5,72.0,12.0,
+17,ECA,Artes Visuais - Bach. e Lic. noturno,2022,Escola Pública (EP),Primeira,52.0,58.0,55.83,680.82,31.5,2.0,2.0,
+80,FEA,Bacharelado em Administração,2022,Escola Pública (EP),Primeira,61.0,59.0,54.0,600.0,38.0,24.0,10.0,
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Segunda,78.0,65.0,76.67,761.11,34.5,190.0,64.0,
+22,ECA,Bach. Com. Social: Publicidade e Propaganda diurno,2022,Ampla Concorrência (AC),Primeira,66.0,65.5,56.67,651.67,38.0,8.0,8.0,
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,78.0,69.0,77.5,777.22,43.0,127.0,45.0,https://drive.google.com/open?id=1lTTxep4MNmrXKhmemUy7Kr02tNLz5zRa
+61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,81.0,66.0,85.83,806.11,38.0,52.0,33.0,https://drive.google.com/open?id=1tLTF63rBuj9N0FatUSB-2OvZ2MvcE7N7
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,76.0,56.0,81.67,740.37,32.0,298.0,82.0,
+0,EACH,Bacharelado em Sistemas de Informação diurno,2022,Ampla Concorrência (AC),Terceira,64.0,64.0,55.83,636.48,29.5,142.0,98.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Lista de espera - Primeira,72.0,66.5,73.33,732.78,36.0,343.0,234.0,
+48,EESC,Engenharia Aeronáutica,2022,Escola Pública (EP),Primeira,68.0,45.0,57.5,593.52,26.5,7.0,7.0,
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,70.0,65.0,55.0,659.26,43.0,1.0,1.0,https://drive.google.com/open?id=1tFK_UiYTaSf9EVu0ZM5xzrGQtXfJfWWX
+29,ECA,Curso Superior do Audiovisual,2022,Escola Pública (EP),Primeira,64.0,73.0,59.17,677.59,36.0,1.0,1.0,https://drive.google.com/open?id=11jqf-I6_HEZS0ubUm5IW3OTnlOVvmYUE
+29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,79.0,64.0,55.0,689.26,33.5,7.0,7.0,https://drive.google.com/open?id=1yXkVCn15t0fVT3EDOVCNOyCyv4pnm3xW
+29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,68.0,69.5,58.33,677.96,35.0,11.0,11.0,https://drive.google.com/open?id=1it7tEMCJvYRaUrPHPm7G2q8xm5pljw0v
+29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,74.0,67.5,50.83,668.52,45.0,15.0,15.0,https://drive.google.com/open?id=1UaorNEJTqOLVWhi_CtVavHX2QnUhEsib
+29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,79.0,60.0,59.0,688.0,30.0,88.0,88.0,
+29,ECA,Curso Superior do Audiovisual,2022,Ampla Concorrência (AC),Primeira,65.0,64.5,63.33,666.85,40.0,17.0,17.0,https://drive.google.com/open?id=1imBxDNeYUnU0IGqlTCX8PUZShyy66xkq
+62,Poli,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Segunda,77.0,66.0,75.83,757.96,36.5,111.0,111.0,
+109,FFLCH,História - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,62.0,56.5,55.0,601.3,32.0,64.0,64.0,https://drive.google.com/open?id=1nKoAdF1aWDYvztElMAcm6gmPcMsIM1px
+109,FFLCH,História - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,68.0,63.0,53.33,639.63,41.0,31.0,31.0,https://drive.google.com/open?id=1WhCjByOhpcULEpkRUx7ruh3pTbDsyfP3
+110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,66.0,49.0,57.5,599.44,25.0,69.0,68.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,62.0,65.5,54.17,628.52,40.0,63.0,62.0,
+141,IAG,Bacharelado em Meteorologia,2022,Ampla Concorrência (AC),Primeira,62.0,44.5,41.67,516.85,28.0,379.0,22.0,
+110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,68.0,74.5,68.33,727.96,42.0,3.0,3.0,https://drive.google.com/open?id=1kwIANxrKgwKOVJCPANe1q982RrWq1dOh
+77,FD,Direito diurno,2022,Escola Pública (EP),Primeira,65.0,66.0,49.17,624.63,38.5,31.0,28.0,https://drive.google.com/open?id=1uEOf78dn21TpySkLoF0jzPdtgRc-XatL
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,78.0,63.0,77.5,757.22,39.5,205.0,47.0,https://drive.google.com/open?id=1Jwr5nLgfMfuRGc-LWcvGi49oaZqF7CAO
+110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,68.0,71.5,55.0,673.52,38.0,13.0,13.0,https://drive.google.com/open?id=1cbcwnlo5B4pCzbVoLmfP0fVy9oC08YkS
+112,FFLCH,Letras – Bach./Lic. noturno,2022,Ampla Concorrência (AC),Lista de espera - Primeira,52.0,50.5,39.17,491.48,33.0,490.0,474.0,https://drive.google.com/open?id=1FT-EMYFU7GQF5b8sfgvoRy1hCU96LZNb
+109,FFLCH,História - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Segunda,69.0,51.5,42.5,568.89,28.5,106.0,106.0,
+110,FFLCH,História - Bach./Lic. noturno,2022,Escola Pública (EP),Primeira,54.0,46.5,50.0,521.67,24.5,36.0,36.0,https://drive.google.com/open?id=19A839JNhnrnLaiU3NQEXcWE6ULzlfsOW
+167,IME,Matemática Aplicada - Bacharelado,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,57.0,52.0,31.67,490.0,33.0,7.0,3.0,
+69,ESALQ,Ciências Econômicas - Bacharelado,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,56.0,61.0,36.0,532.0,36.0,1.0,1.0,https://drive.google.com/open?id=1WGvBLLaYCOHhy4Yq1lCzGodYdH2Kn4fS
+69,ESALQ,Ciências Econômicas - Bacharelado,2022,Ampla Concorrência (AC),Primeira,68.0,62.5,47.5,622.22,35.0,3.0,3.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,79.0,64.5,73.33,752.04,37.0,233.0,162.0,
+103,FFLCH,Ciências Sociais - Bach./Lic. diurno,2022,Escola Pública (EP),Primeira,55.0,57.0,36.67,515.93,30.0,22.0,21.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Primeira,68.0,49.0,45.0,565.19,28.5,128.0,72.0,
+110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,50.0,66.5,47.5,565.19,40.0,117.0,116.0,https://drive.google.com/open?id=17Txnpbff0hrKHKR_oSCFI3ZiDndHMg93
+55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,71.0,47.0,74.0,662.0,26.0,39.0,24.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,50.0,57.0,45.0,525.19,30.0,321.0,318.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,59.0,52.0,44.17,539.07,32.0,263.0,260.0,https://drive.google.com/open?id=1qgYEATyk96ZnoC4pwZYQCz4eaV9RYgSe
+61,Poli,Engenharia Mecânica,2022,Ampla Concorrência (AC),Primeira,75.0,66.0,82.0,772.0,40.0,151.0,85.0,https://drive.google.com/open?id=1XYnGFfcuYAa_x0LTUNoJ2DpTnIIZNzlM
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,81.0,71.5,74.17,785.56,40.0,3.0,3.0,https://drive.google.com/open?id=1yyPVhQHCwAt7hlH0_XgwPPNRkfNM3We0
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,68.0,77.0,66.67,730.74,43.5,17.0,17.0,
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,74.0,65.5,72.5,734.07,41.5,16.0,16.0,
+54,Poli,Engenharia Civil,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,39.0,49.5,5.0,326.11,26.5,127.0,42.0,
+25,ECA,Bacharelado em Jornalismo diurno,2022,Ampla Concorrência (AC),Primeira,66.0,64.0,66.67,680.0,33.0,14.0,14.0,https://drive.google.com/open?id=10Wo6jmJnCqfc0i1yn3g_lM8sxgqruwmS
+1,EACH,Bacharelado em Sistemas de Informação noturno,2022,Ampla Concorrência (AC),Primeira,79.0,55.0,52.5,650.93,31.0,117.0,40.0,
+113,FM,Medicina,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,62.0,61.0,80.83,702.41,43.5,22.0,22.0,https://drive.google.com/open?id=1qIqZtAgIbGjSgWF5aXc9lF9p5fdlPjdR
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Lista de espera - Primeira,49.0,57.0,35.0,488.15,36.0,509.0,504.0,https://drive.google.com/open?id=1UFxaLCiY3nssozO4Ui2CqOuWstlMZNkO
+49,EESC,Engenharia Ambiental,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,47.0,37.0,13.0,338.0,23.0,3.0,3.0,
+80,FEA,Bacharelado em Administração,2022,Ampla Concorrência (AC),Lista de espera - Primeira,63.0,52.5,54.17,588.89,35.0,417.0,311.0,https://drive.google.com/open?id=1Pii-59u1A6TN7djo87UQ6cod82V1Nlw5
+58,Poli,Engenharia de Petróleo,2022,Escola Pública (EP),Lista de espera - Quarta,50.0,46.0,25.83,424.63,25.0,450.0,55.0,
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,Ampla Concorrência (AC),Lista de espera - Primeira,70.0,71.5,60.0,697.59,47.0,38.0,38.0,https://drive.google.com/open?id=1YJRGf6F3OxYxFEQcb7t5B6oCo7XX6oq0
+62,Poli,Engenharia Mecatrônica,2022,Escola Pública (EP),Primeira,74.0,56.0,55.83,646.85,36.0,53.0,28.0,https://drive.google.com/open?id=1hfVzR06Kb0dQJkVHdLu6ZUwn6jatffuO
+14,EACH,Marketing diurno,2022,Escola Pública (EP),Primeira,52.0,50.0,30.83,462.04,36.5,25.0,25.0,https://drive.google.com/open?id=1YYF4LIANsQsZjis3CPfUn3R7xBJxlZKS
+14,EACH,Marketing diurno,2022,Escola Pública (EP),Primeira,52.0,59.5,26.67,479.81,26.0,18.0,18.0,
+14,EACH,Marketing diurno,2021,Escola Pública (EP),Primeira,61.0,42.5,39.17,498.15,30.0,30.0,13.0,
+14,EACH,Marketing diurno,2022,Ampla Concorrência (AC),Primeira,63.0,59.0,39.17,560.56,35.0,12.0,12.0,https://drive.google.com/open?id=1Ifj8h8ulI1i51nuzu70SUmaRsMhv4iIW
+14,EACH,Marketing diurno,2022,Ampla Concorrência (AC),Primeira,62.0,50.0,46.67,551.85,31.5,20.0,20.0,https://drive.google.com/open?id=1n18LOtQ01IE9DOUu1dDiQXHPEene52pP
+15,EACH,Marketing noturno,2022,Ampla Concorrência (AC),Lista de espera - Quinta,51.0,46.0,44.17,489.44,25.0,57.0,55.0,
+57,Poli,Engenharia de Minas,2022,Escola Pública (EP),Primeira,61.0,39.0,30.0,455.93,24.5,354.0,25.0,
+33,EE,Enfermagem,2022,Ampla Concorrência (AC),Primeira,63.0,62.0,59.17,637.0,39.5,10.0,10.0,
+54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,72.0,59.0,60.83,666.11,38.0,38.0,15.0,https://drive.google.com/open?id=1HdhTE78nLOd48hmN1OVubHipCdYWWOfQ
+110,FFLCH,História - Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,57.0,55.0,50.0,561.11,31.5,123.0,122.0,
+6,EACH,Curso de Graduação em Obstetrícia,2022,Ampla Concorrência (AC),Primeira,54.0,48.9,38.9,489.44,31.0,24.0,24.0,https://drive.google.com/open?id=1vSYwBLvGsPe4pUVyNYbVVk8uVczaS_Xy
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,72.0,61.5,80.0,738.33,33.5,314.0,61.0,
+136,FZEA,Engenharia de Biossistemas,2022,Ampla Concorrência (AC),Primeira,68.0,29.0,50.83,517.96,28.0,8.0,8.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,76.0,57.0,87.5,763.15,31.5,182.0,99.0,https://drive.google.com/open?id=17hoYskYYA8OiHz46T6_RMzBC8l1Uwt1H
+109,FFLCH,História - Bach./Lic. diurno,2021,Ampla Concorrência (AC),Lista de espera - Quinta,57.0,56.5,47.5,557.78,33.0,162.0,159.0,
+61,Poli,Engenharia Mecânica,2022,Escola Pública (EP),Primeira,63.0,48.0,50.0,560.0,31.5,138.0,85.0,
+85,FEA,Bacharelado em Ciências Econômicas,2021,Escola Pública (EP),Primeira,70.0,69.0,63.33,700.37,41.5,1.0,1.0,https://drive.google.com/open?id=17WtFPyIvyi0R_lFqzG4gPDiR6I7afxQg
+10,EACH,Bacharelado em Gestão Ambiental diurno,2019,Escola Pública (EP),Primeira,38.0,44.5,9.17,319.63,30.0,6.0,6.0,https://drive.google.com/open?id=1fTflBY9wzCuMFUEBdWjiFT5TpuGyJ1Rt
+12,EACH,Gestão de Políticas Públicas diurno,2019,Ampla Concorrência (AC),Primeira,55.0,56.5,40.83,528.15,33.0,11.0,11.0,https://drive.google.com/open?id=1i2jotb7y5RCA4wDw2v6P6iZB2ZorP9AC
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,77.0,68.67,74.17,761.3,40.67,189.0,63.0,
+112,FFLCH,Letras – Bach./Lic. noturno,2022,Escola Pública (EP),Primeira,54.0,40.5,40.0,468.33,26.0,119.0,118.0,https://drive.google.com/open?id=1Wbdt-1uKL1FA12-SCSWfHS3jvDFRPGuG
+164,IME,Matemática - Licenciatura noturno,2022,Ampla Concorrência (AC),Terceira,47.0,29.0,27.5,362.41,21.5,178.0,159.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,68.0,67.5,60.0,676.85,36.5,22.0,22.0,
+7,EACH,Bacharelado em Têxtil e Moda,2022,Ampla Concorrência (AC),Primeira,62.0,55.5,28.33,509.07,31.5,16.0,16.0,
+79,FDRP,Direito,2022,Escola Pública (EP),Primeira,66.0,68.0,49.0,635.0,43.0,21.0,19.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Lista de espera - Primeira,72.0,68.0,61.67,698.89,31.5,566.0,120.0,
+4,EACH,Bacharelado em Biotecnologia,2022,Ampla Concorrência (AC),Primeira,71.0,65.0,53.0,654.0,40.0,13.0,13.0,
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,81.0,69.5,78.33,792.78,38.5,86.0,27.0,https://drive.google.com/open?id=1jWpp5GM98R8otphMCah1d1n3cScMu72X
+31,EEFE,Educação Física e Esporte – Educação Física (Bach. e Lic.) e Esporte (Bach.),2022,Ampla Concorrência (AC),Primeira,63.0,43.5,53.33,556.11,32.0,13.0,13.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,76.0,71.0,85.0,801.48,40.0,61.0,42.0,https://drive.google.com/open?id=198o7xmc66MSGGV1TA9Vc0kzHgXaFKOuu
+83,FEA,Bacharelado em Ciências Contábeis,2022,Ampla Concorrência (AC),Lista de espera - Primeira,62.0,57.0,45.83,572.41,34.5,518.0,151.0,
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Terceira,74.0,60.0,74.17,721.3,29.5,418.0,134.0,
+50,EESC,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Segunda,74.0,47.0,67.0,653.0,31.0,57.0,56.0,https://drive.google.com/open?id=1dejlOBb6ergIogLhkTb9O5-KvNuKuxp6
+1,EACH,Bacharelado em Sistemas de Informação noturno,2022,Ampla Concorrência (AC),Primeira,66.0,57.0,53.33,612.22,35.0,192.0,73.0,https://drive.google.com/open?id=1ix1G-UTJFN1_JP5vfsm8rGjiP3Nn4pST
+167,IME,Matemática Aplicada - Bacharelado,2022,Ampla Concorrência (AC),Primeira,75.0,62.5,58.33,680.56,38.0,67.0,13.0,https://drive.google.com/open?id=1-GFYZRX9_pLT74K0FUseyBtcAGbCM8wa
+162,IME,Bacharelado em Ciência da Computação,2022,Escola Pública (EP),Segunda,66.0,55.5,54.17,610.0,30.0,26.0,26.0,
+62,Poli,Engenharia Mecatrônica,2022,Escola Pública (EP),Segunda,60.0,44.0,57.5,560.56,26.5,137.0,72.0,
+162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Primeira,72.0,83.0,68.33,771.11,48.5,12.0,12.0,https://drive.google.com/open?id=1z7HlOL1G_0uoCSWJo4R5Yt9cV_lmgofZ
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,74.0,55.5,81.67,731.3,31.0,357.0,107.0,
+0,EACH,Bacharelado em Sistemas de Informação diurno,2022,Ampla Concorrência (AC),Terceira,72.0,53.67,56.67,634.44,30.67,149.0,103.0,
+96,FFCLRP,Bacharelado em Matemática Aplicada a Negócios,2022,Escola Pública (EP),Segunda,39.0,40.5,10.83,315.56,30.0,11.0,11.0,
+78,FD,Direito noturno,2022,Ampla Concorrência (AC),Primeira,71.0,62.0,58.33,664.07,34.5,216.0,212.0,https://drive.google.com/open?id=1DbNw-nI8bfvOAuP8SzgZlALNWC82lNLT
+50,EESC,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Primeira,75.0,71.0,62.5,722.78,38.0,17.0,17.0,
+0,EACH,Bacharelado em Sistemas de Informação diurno,2022,Ampla Concorrência (AC),Primeira,72.0,50.0,68.33,661.11,33.0,103.0,75.0,
+62,Poli,Engenharia Mecatrônica,2022,Ampla Concorrência (AC),Lista de espera - Quarta,66.0,60.0,66.67,666.67,34.5,774.0,377.0,https://drive.google.com/open?id=1kvfYYhsQwKwS25lDjc4bV85A99euPZ62
+146,ICMC,BCC - ICMC,2022,Escola Pública (EP),Primeira,69.0,56.0,62.5,650.56,35.0,10.0,9.0,https://drive.google.com/open?id=1jnnYkgx8qZRPL--osi83ZuhvwQwI5d79
+58,Poli,Engenharia de Petróleo,2022,Ampla Concorrência (AC),Lista de espera - Segunda,72.0,60.0,65.0,683.33,36.5,671.0,64.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Primeira,69.0,59.67,80.0,721.11,37.67,420.0,83.0,https://drive.google.com/open?id=1RdVEl3LfC_hI8VWtnYnp_0_R1t8Ci76V
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,75.0,71.0,70.0,747.78,35.0,255.0,66.0,
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,80.0,53.0,80.0,739.63,28.5,305.0,105.0,
+54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,59.0,52.83,38.33,522.41,29.33,188.0,54.0,
+54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,71.0,60.5,75.83,691.48,30.0,198.0,58.0,
+54,Poli,Engenharia Civil,2022,Escola Pública (EP),Primeira,60.0,56.67,52.5,586.11,32.67,97.0,30.0,https://drive.google.com/open?id=1yAYqzhbCUEEqJJHpc6ImPYEJOhXBvl0e
+97,FFCLRP,Psicologia - Bach. e Psicólogo,2022,Ampla Concorrência (AC),Primeira,72.0,57.5,68.33,686.11,32.0,13.0,13.0,
+149,ICMC,Bacharelado em Sistemas de Informação,2022,Escola Pública (EP),Primeira,57.0,51.5,19.17,446.67,31.0,6.0,6.0,
+58,Poli,Engenharia de Petróleo,2022,Ampla Concorrência (AC),Primeira,71.0,61.0,79.0,730.0,35.0,366.0,25.0,
+44,EESC,Engenharia Elétrica (Ênfase em Eletrônica),2022,Ampla Concorrência (AC),Terceira,67.0,59.5,60.83,649.26,30.0,71.0,69.0,
+53,Poli,Engenharia Ambiental,2022,Escola Pública (EP),Primeira,61.0,62.0,32.5,540.93,33.0,166.0,26.0,https://drive.google.com/open?id=1yWzMqgRcccKAW6hQk6GdcN1qYxJ7JCIZ
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,71.0,67.0,75.0,735.0,33.0,336.0,98.0,
+47,EESC,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,71.0,58.5,69.17,688.52,38.0,30.0,28.0,
+47,EESC,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,74.0,64.0,69.17,717.96,37.0,20.0,20.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2021,Escola Pública (EP),Primeira,76.0,59.0,83.33,755.93,38.0,9.0,7.0,
+154,IF,Física – Licenciatura diurno,2022,Ampla Concorrência (AC),Primeira,67.0,63.5,50.83,629.26,35.0,17.0,16.0,
+98,FFCLRP,Ciências Biológicas – Bacharelado e Licenciatura,2022,Escola Pública (EP),Primeira,55.0,58.0,55.0,580.0,28.0,2.0,2.0,
+164,IME,Matemática - Licenciatura noturno,2022,Ampla Concorrência (AC),Lista de espera - Primeira,51.0,50.0,40.0,530.0,35.0,108.0,108.0,
+162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Primeira,75.0,66.5,83.33,777.22,38.5,10.0,10.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,77.0,62.5,79.17,757.41,33.5,204.0,140.0,https://drive.google.com/open?id=1QLfhuzcgEu0nXwjqIkZsmgFi9GgZqg_f
+89,FEARP,Bacharelado em Ciências Econômicas,2021,Ampla Concorrência (AC),Primeira,68.0,53.5,55.0,613.52,31.5,27.0,23.0,https://drive.google.com/open?id=1r7D3K6O4iAUc5WGHZz15EoAc6xiWIOe8
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,71.0,78.5,55.0,707.96,43.0,6.0,6.0,https://drive.google.com/open?id=1-PKIungD7_YO8p1mglFGrHbgkToQDFjA
+85,FEA,Bacharelado em Ciências Econômicas,2022,Ampla Concorrência (AC),Primeira,73.0,63.5,55.83,668.15,42.0,103.0,96.0,
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Segunda,73.0,62.0,90.83,779.81,33.0,118.0,64.0,
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,81.0,56.0,85.83,772.78,31.5,147.0,31.0,https://drive.google.com/open?id=1tYzwzfoKa38005g9Vcx9hmN8xzyK4JyV
+31,EEFE,Educação Física e Esporte – Educação Física (Bach. e Lic.) e Esporte (Bach.),2021,"Pretos, Pardos e Indígenas (PPI)",Primeira,51.0,46.0,10.0,387.0,28.0,6.0,6.0,
+55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,80.0,55.5,90.83,784.07,34.5,104.0,52.0,https://drive.google.com/open?id=1YbMTn7f5EyhQUPgHZ9lMBCNYhmWb9xP8
+54,Poli,Engenharia Civil,2022,Ampla Concorrência (AC),Primeira,78.0,48.5,89.17,747.78,26.5,0.0,0.0,
+72,FAU,Arquitetura e Urbanismo,2022,Ampla Concorrência (AC),Primeira,74.0,59.5,72.5,714.07,28.0,39.0,39.0,
+59,Poli,Engenharia de Produção,2022,Escola Pública (EP),Primeira,62.0,51.5,60.0,601.3,30.0,85.0,35.0,
+173,IQSC,Química Bacharelado (Hab. Fundamental e Hab. Tecnológica com ênfases em Alimentos; Ambiental; Gestão de Qualidade; Materiais),2020,Escola Pública (EP),Primeira,46.0,49.5,22.5,410.37,31.0,13.0,13.0,https://drive.google.com/open?id=1v_Xd1B8_3EqOHVuwirP9yw55XqINY8fN
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,71.0,61.5,86.67,756.85,38.0,207.0,142.0,https://drive.google.com/open?id=1CrLos6-BesBdxvD2zjK0WavljyLjbAEg
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,66.0,64.5,55.0,642.78,35.0,2.0,2.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,63.0,50.0,41.67,538.89,33.0,265.0,262.0,
+65,ESALQ,Engenharia Agronômica,2021,Escola Pública (EP),Primeira,67.0,62.5,60.0,656.48,39.5,1.0,1.0,https://drive.google.com/open?id=15FO8Df8ej6HJNrr9gnldNfBCaTWKsRr6
+72,FAU,Arquitetura e Urbanismo,2023,Ampla Concorrência (AC),Primeira,73.0,65.0,61.67,692.59,36.0,44.0,44.0,https://drive.google.com/open?id=1WvzUYrfsaAnYbZ8fDXbpD6vA0WgsiziC
+80,FEA,Bacharelado em Administração,2023,"Pretos, Pardos e Indígenas (PPI)",Primeira,64.0,48.0,40.0,530.37,30.0,713.0,525.0,
+72,FAU,Arquitetura e Urbanismo,2023,Ampla Concorrência (AC),Primeira,76.0,72.0,74.17,769.7,44.5,7.0,7.0,https://drive.google.com/open?id=14exNEZNpE5hHhdskye1MrOKYD0JpShJk
+80,FEA,Bacharelado em Administração,2023,Ampla Concorrência (AC),Primeira,84.0,59.0,61.67,713.33,32.5,17.0,14.0,
+72,FAU,Arquitetura e Urbanismo,2021,Ampla Concorrência (AC),Primeira,79.0,63.5,74.17,751.48,34.5,12.0,12.0,
+39,EEL,Engenharia Química noturno,2021,Ampla Concorrência (AC),Primeira,58.0,51.0,67.0,607.0,27.0,45.0,42.0,https://drive.google.com/open?id=1JfG0U-2ttq4zH2BqOdteMO9Jwf6WH9Py
+162,IME,Bacharelado em Ciência da Computação,2022,Ampla Concorrência (AC),Lista de espera - Primeira,75.0,71.5,56.67,705.0,38.5,46.0,43.0,
+61,Poli,Engenharia Mecânica,2021,Ampla Concorrência (AC),Primeira,84.0,66.0,87.5,822.78,35.0,31.0,19.0,https://drive.google.com/open?id=1wJZodeViK3Yu_q7mqjTfbcW_Eqs1dlQg
+15,EACH,Marketing noturno,2023,Ampla Concorrência (AC),Primeira,64.0,56.5,37.5,550.37,33.0,18.0,18.0,https://drive.google.com/open?id=1SECzD4qGSwOKy8HcABIWIZWSHDzM1f8G
+77,FD,Direito diurno,2022,Escola Pública (EP),Primeira,77.0,81.5,62.0,763.33,48.5,1.0,1.0,
+0,EACH,Bacharelado em Sistemas de Informação diurno,2023,Ampla Concorrência (AC),Primeira,76.0,62.5,65.0,706.48,36.5,45.0,30.0,https://drive.google.com/open?id=1wWuKuN9KfhOaxyLSRp1yRkiiXet5AgVC
+71,ESALQ,Bacharelado em Administração,2023,Escola Pública (EP),Primeira,59.0,47.0,36.67,497.41,22.5,26.0,26.0,
+131,FSP,Nutrição diurno,2023,Escola Pública (EP),Primeira,60.0,55.0,55.0,570.0,25.0,58.0,58.0,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Escola Pública (EP),Primeira,62.0,57.0,34.17,533.52,38.5,513.0,223.0,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2022,Ampla Concorrência (AC),Primeira,67.0,53.0,65.0,641.48,26.5,151.0,61.0,
+48,EESC,Engenharia Aeronáutica,2022,Ampla Concorrência (AC),Lista de espera - Primeira,77.0,66.0,62.5,713.52,41.0,23.0,23.0,
+162,IME,Bacharelado em Ciência da Computação,2023,Ampla Concorrência (AC),Primeira,81.0,63.5,68.33,739.44,38.5,21.0,21.0,
+55,Poli,Engenharia de Computação,2023,Escola Pública (EP),Primeira,75.0,63.5,43.33,633.88,36.0,905.0,512.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2023,Ampla Concorrência (AC),Primeira,65.0,55.5,50.83,595.19,31.0,135.0,133.0,https://drive.google.com/open?id=1QtYXGMe4tuKobEtKjR7OS8bCszI6vCju
+112,FFLCH,Letras – Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,61.0,49.0,42.5,530.93,34.5,294.0,288.0,
+6,EACH,Curso de Graduação em Obstetrícia,2023,Escola Pública (EP),Primeira,56.0,56.0,29.17,491.3,34.5,23.0,23.0,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2022,Ampla Concorrência (AC),Primeira,70.0,54.0,62.5,647.59,35.0,133.0,53.0,
+170,IP,Psicologia - Bach./Lic. e Psicólogo,2023,Ampla Concorrência (AC),Primeira,78.0,67.0,62.5,720.56,43.0,12.0,12.0,
+55,Poli,Engenharia de Computação,2023,"Pretos, Pardos e Indígenas (PPI)",Segunda,52.0,43.5,16.67,393.15,30.0,1904.0,1062.0,https://drive.google.com/open?id=1MfOc7YufYzJ6UFNQ6DtjiRvAJW94Fd89
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Ampla Concorrência (AC),Primeira,75.0,58.5,78.33,733.89,36.5,225.0,148.0,
+33,EE,Enfermagem - Bach. e Lic.,2023,Ampla Concorrência (AC),Primeira,56.0,62.5,54.17,596.3,37.0,20.0,20.0,
+84,FEA,Bacharelado em Ciências Econômicas,2022,Ampla Concorrência (AC),Primeira,77.0,65.5,53.33,681.3,39.5,41.0,39.0,https://drive.google.com/open?id=1vJNye7LP79UitdfLNH7rcetFFRMyWuOn
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Escola Pública (EP),Primeira,70.0,64.0,30.0,572.59,39.5,367.0,146.0,https://drive.google.com/open?id=1W_16907Z5814vZzCDY64G75Z2hay_hd3
+173,IQSC,Química Bacharelado (Hab. Fundamental e Hab. Tecnológica com ênfases em Alimentos; Ambiental; Gestão de Qualidade; Materiais),2023,Ampla Concorrência (AC),Primeira,66.0,56.0,46.67,586.67,38.0,4.0,4.0,
+146,ICMC,BCC,2023,Ampla Concorrência (AC),Primeira,78.0,59.0,88.33,780.0,33.0,8.0,7.0,https://drive.google.com/open?id=12DwHEDWsoX0Zq3D_km6oq-CO3mBrPWhb
+173,IQSC,Química Bacharelado (Hab. Fundamental e Hab. Tecnológica com ênfases em Alimentos; Ambiental; Gestão de Qualidade; Materiais),2023,Ampla Concorrência (AC),Primeira,60.0,65.0,36.67,561.11,40.0,8.0,8.0,https://drive.google.com/open?id=1u6snawO2keZswwboZAOTBgux3x0S48SP
+173,IQSC,Química Bacharelado (Hab. Fundamental e Hab. Tecnológica com ênfases em Alimentos; Ambiental; Gestão de Qualidade; Materiais),2023,Ampla Concorrência (AC),Primeira,60.0,63.5,27.5,521.8,38.0,12.0,12.0,https://drive.google.com/open?id=1AlmWj8XZbVZC6y5lZSfeXpvnur6ZPkvB
+146,ICMC,Bacharelado em Ciências da Computação,2023,Ampla Concorrência (AC),Primeira,80.0,55.0,84.17,760.19,27.0,12.0,10.0,https://drive.google.com/open?id=19IShIZtTrx0TYQuNKGixALSYwVyos34M
+146,ICMC,BCC,2023,Ampla Concorrência (AC),Primeira,79.0,64.0,55.83,692.04,37.5,60.0,53.0,
+146,ICMC,BCC,2023,Ampla Concorrência (AC),Primeira,71.0,65.5,65.83,697.04,37.0,53.0,48.0,https://drive.google.com/open?id=1NxrMLoLabjdu35z-ZsR4Hpe8hc9exVac
+69,ESALQ,Ciências Econômicas - Bacharelado,2023,Ampla Concorrência (AC),Primeira,60.0,56.5,40.83,546.67,32.0,20.0,20.0,https://drive.google.com/open?id=1JV1ZBUL58kc5buOWuyibJ3DzTKnFy7jX
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2023,Ampla Concorrência (AC),Primeira,76.0,68.5,75.0,759.81,38.0,118.0,80.0,
+151,ICMC,Bacharelado em ciencia de dados,2022,Ampla Concorrência (AC),Primeira,73.0,72.0,50.83,679.81,43.0,3.0,3.0,
+172,IQ,Química – Bacharelado e Licenciatura – Noturno (Bach. – Ênfase em Química),2023,Escola Pública (EP),Primeira,52.0,57.0,24.17,463.15,38.5,109.0,105.0,
+64,Poli,Engenharia Química (quadrimestral),2023,Escola Pública (EP),Primeira,71.0,61.5,48.33,629.07,39.5,934.0,268.0,
+12,EACH,Gestão de Políticas Públicas diurno,2022,Ampla Concorrência (AC),Primeira,55.0,58.5,36.67,520.93,36.0,23.0,22.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2022,Ampla Concorrência (AC),Segunda,78.0,50.5,75.83,710.0,29.5,360.0,89.0,https://drive.google.com/open?id=1XSeZUrS-vydG__rT9N74lUuib4E5RrjM
+59,Poli,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,84.0,64.0,80.0,790.0,38.0,54.0,20.0,https://drive.google.com/open?id=17rPhPTTxt5YpdRCsTkIGnYQUrrCBhxG_
+151,ICMC,Bacharelado em Estatística e Ciência de Dados ICMC,2022,Ampla Concorrência (AC),Primeira,80.0,67.0,64.17,733.52,35.0,16.0,2.0,
+167,IME,Matemática Aplicada - Bacharelado,2023,Ampla Concorrência (AC),Primeira,63.0,62.5,55.83,627.78,40.0,111.0,39.0,https://drive.google.com/open?id=1YYBLppBac28nHYjXr03ZWrBVeY6YWZ_w
+146,ICMC,Bacharelado em Ciências de Computação,2023,Escola Pública (EP),Segunda,56.0,58.0,51.67,572.96,36.5,366.0,330.0,
+108,FFLCH,Geografia - Bach./Lic. noturno,2023,Ampla Concorrência (AC),Primeira,57.0,60.5,45.0,562.78,40.0,38.0,37.0,https://drive.google.com/open?id=1PZy2H6Jg7mvVFESzgvLIHQMlC-Pxg1SA
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Ampla Concorrência (AC),Segunda,69.0,53.5,44.17,581.11,38.5,330.0,128.0,https://drive.google.com/open?id=1A5h4CudcUDjOXJVtPlOH9n1AZwtGlESn
+1,EACH,Bacharelado em Sistemas de Informação noturno,2022,Ampla Concorrência (AC),Primeira,75.0,60.83,40.83,616.67,39.33,217.0,78.0,https://drive.google.com/open?id=19l5BqIYDwqcZULqy8NgjMe3n6mfP1n6I
+0,EACH,Bacharelado em Sistemas de Informação diurno,2022,"Pretos, Pardos e Indígenas (PPI)",Primeira,63.0,57.0,29.17,520.56,32.0,551.0,377.0,
+61,Poli,Engenharia Mecânica,2023,Escola Pública (EP),Primeira,68.0,56.5,35.0,556.85,31.5,1405.0,670.0,
+12,EACH,Gestão de Políticas Públicas diurno,2023,Ampla Concorrência (AC),Primeira,63.0,64.0,33.33,557.78,42.0,10.0,9.0,https://drive.google.com/open?id=1NsmpX7JJzukREURanKEhQIBMayjwLKC_
+55,Poli,Engenharia de Computação,2023,Ampla Concorrência (AC),Primeira,76.0,77.5,79.17,803.7,45.0,30.0,19.0,https://drive.google.com/open?id=1JZgvh2hQzlPvfD6hHNiNFL_a3ijF3p14
+162,IME,Bacharelado em Ciência da Computação,2023,Escola Pública (EP),Primeira,69.0,51.5,65.0,643.89,33.0,140.0,136.0,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Ampla Concorrência (AC),Segunda,70.0,58.0,40.0,585.93,32.0,313.0,120.0,
+113,FM,Medicina,estou entrando na FMUSP em 2023,Ampla Concorrência (AC),Primeira,84.0,78.5,91.67,878.33,40.0,15.0,15.0,https://drive.google.com/open?id=1lnWOQj_6ZQnBN476WwQQh0-JeFU1PTSL
+112,FFLCH,Letras – Bach./Lic. noturno,2022,Ampla Concorrência (AC),Primeira,46.0,54.0,53.33,528.15,34.0,353.0,344.0,https://drive.google.com/open?id=14on-JH8tl8rpBPeOApiGHojHs7POema3
+111,FFLCH,Letras – Bach./Lic. diurno,2023,Escola Pública (EP),Primeira,45.0,55.5,45.0,501.67,40.0,480.0,480.0,https://drive.google.com/open?id=1v69dI8mg9WsaYQlTtY2ll47Ukt0Sv4Pf
+146,ICMC,Ciências de Computação,2023,"Pretos, Pardos e Indígenas (PPI)",Primeira,60.0,55.0,22.5,480.56,34.5,662.0,582.0,
+151,ICMC,Bacharelado em Estatística e Ciencia de Dados,2023,Ampla Concorrência (AC),Primeira,68.0,56.0,38.33,566.3,31.5,229.0,27.0,https://drive.google.com/open?id=1G_ga_xpXOmTT8Z_QPuQhMCOcSS8Stbjr
+62,Poli,Engenharia Mecatrônica,2023,Ampla Concorrência (AC),Primeira,77.0,68.0,69.17,742.41,38.0,181.0,95.0,https://drive.google.com/open?id=1ISyAoo8NvKpDAsNRuW2FBTkbPB3kY1h1
+72,FAU,Arquitetura e Urbanismo,2023,Escola Pública (EP),Primeira,64.0,51.5,48.33,569.81,35.0,218.0,218.0,
+138,FZEA,Medicina Veterinária,2022,Ampla Concorrência (AC),Primeira,61.0,54.0,63.33,617.04,28.0,17.0,17.0,
+112,FFLCH,Letras – Bach./Lic. noturno,2023,Ampla Concorrência (AC),Segunda,54.0,52.5,38.3,502.7,32.0,476.0,464.0,
+152,IF,Física – Bacharelado diurno,2023,Escola Pública (EP),Primeira,63.0,57.5,33.33,536.11,36.0,299.0,184.0,https://drive.google.com/open?id=1gvnjpg_xmPnhFKLQg-zRaXar2tvEw-MQ
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2023,Escola Pública (EP),Primeira,62.0,60.0,49.17,593.52,39.5,1196.0,736.0,https://drive.google.com/open?id=1o2T_aknEPW2r11y5YN1VlqOm5-WuZwQC
+12,EACH,Gestão de Políticas Públicas diurno,2023,Escola Pública (EP),Primeira,64.0,48.0,23.3,474.81,28.5,48.0,47.0,https://drive.google.com/open?id=1zXl-hAa9ZqXZVcn-XUAik4B2fO2rodzg
+112,FFLCH,Letras – Bach./Lic. noturno,2023,Ampla Concorrência (AC),Primeira,53.0,58.0,40.83,525.74,38.0,370.0,361.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2023,Ampla Concorrência (AC),Segunda,75.0,65.0,67.0,717.0,36.0,309.0,196.0,
+72,FAU,Arquitetura e Urbanismo,2023,Escola Pública (EP),Primeira,63.0,58.5,52.5,603.33,43.0,168.0,168.0,
+72,FAU,Arquitetura e Urbanismo,2023,Escola Pública (EP),Primeira,66.0,57.5,61.67,641.67,35.0,102.0,102.0,
+72,FAU,Arquitetura e Urbanismo,2023,Ampla Concorrência (AC),Primeira,76.0,73.5,70.83,762.59,41.0,9.0,9.0,https://drive.google.com/open?id=1kgrHPwOoK-E1xYS9VX3DwOk3uJC9_xqU
+168,IME,Bach. em Matemática Aplicada e Computacional,2023,Escola Pública (EP),Segunda,64.0,54.5,15.0,468.7,31.5,512.0,186.0,
+72,FAU,Arquitetura e Urbanismo,2022,Ampla Concorrência (AC),Primeira,76.0,62.5,66.67,712.04,37.5,31.0,31.0,
+112,FFLCH,Letras – Bach./Lic. noturno,2023,Ampla Concorrência (AC),Segunda,45.0,61.0,40.0,503.33,46.5,471.0,459.0,
+43,EESC,Engenharia Civil,2022,Ampla Concorrência (AC),Segunda,65.0,54.5,55.0,605.74,34.5,31.0,31.0,https://drive.google.com/open?id=1wb3cw1k9r21nWuvf-wE1W7ZU8rU81PN5
+111,FFLCH,Letras – Bach./Lic. diurno,2023,Ampla Concorrência (AC),Primeira,60.0,59.5,81.67,692.78,38.5,13.0,13.0,https://drive.google.com/open?id=1ThUeb7VnJnD4glqmQqV-aN-FCHzG1fcq
+62,Poli,Engenharia Mecatrônica,2023,Ampla Concorrência (AC),Primeira,77.0,61.0,81.67,760.74,31.0,116.0,61.0,https://drive.google.com/open?id=1V7S9zlgm4d9K21lDw_UrJGGCDkVImMOI
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Ampla Concorrência (AC),Primeira,67.0,54.5,55.83,615.93,33.5,79.0,79.0,
+160,IGc,Geologia,2023,Escola Pública (EP),Primeira,54.0,53.5,6.67,400.56,31.0,41.0,41.0,
+112,FFLCH,Letras – Bach./Lic. noturno,2023,Escola Pública (EP),Primeira,57.0,51.0,31.67,486.67,32.0,568.0,554.0,https://drive.google.com/open?id=1Js__B4splSLH-YaqphuRqDWUvRPwWPP8
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Escola Pública (EP),Primeira,66.0,60.0,27.5,536.11,40.0,213.0,213.0,https://drive.google.com/open?id=1bnd8Ux3qMb103PdYQtIDu490e9VMDJMm
+154,IF,Física – Licenciatura diurno,2022,Ampla Concorrência (AC),Primeira,57.0,55.5,33.33,507.22,31.0,56.0,47.0,https://drive.google.com/open?id=18uRndhIwOrVLDN8AGZC_M_cqwEVDvvB7
+144,IB,Ciências Biológicas - Bach./Lic. noturno,2023,Escola Pública (EP),Primeira,65.0,55.33,31.67,530.74,35.33,131.0,122.0,https://drive.google.com/open?id=1_7BB1lfFcrgm4hyojG6ubRoLrXM6TctI
+85,FEA,Bacharelado em Ciências Econômicas,2022,Escola Pública (EP),Primeira,69.0,57.5,39.17,577.78,28.5,379.0,338.0,https://drive.google.com/open?id=1JVDGCbftc58URnhCz0iVx35QODe0s2cv
+160,IGc,Geologia,2023,Ampla Concorrência (AC),Primeira,69.0,51.5,31.67,532.78,31.0,7.0,7.0,
+14,EACH,Marketing diurno,2023,Escola Pública (EP),Primeira,52.0,54.0,31.67,478.15,36.5,71.0,71.0,https://drive.google.com/open?id=124oUSlosvgbMe9-_gKZgLexpROcuWcmc
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2023,Escola Pública (EP),Primeira,54.0,43.5,44.17,492.22,28.5,1645.0,403.0,https://drive.google.com/open?id=1LwS-2xIplPPxgopno6cDzWgUFDaQOl0d
+109,FFLCH,História - Bach./Lic. diurno,2023,Escola Pública (EP),Primeira,58.0,47.83,57.5,565.93,32.33,139.0,133.0,
+78,FD,Direito noturno,2022,Escola Pública (EP),Primeira,60.0,59.0,38.33,546.67,36.5,901.0,879.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2023,Escola Pública (EP),Primeira,59.0,42.0,53.0,536.0,25.0,1497.0,914.0,
+63,Poli,Engenharia Naval,2022,Escola Pública (EP),Primeira,57.0,51.0,35.0,500.0,35.0,238.0,238.0,
+90,FEARP,Bacharelado em Finanças e Negócios,2023,Ampla Concorrência (AC),Segunda,62.0,55.0,35.0,534.07,34.0,89.0,71.0,
+77,FD,Direito diurno,2023,Ampla Concorrência (AC),Primeira,77.0,78.5,51.67,719.07,39.0,27.0,27.0,
+25,ECA,Bacharelado em Jornalismo diurno,2023,Ampla Concorrência (AC),Primeira,67.0,72.0,65.0,704.81,43.0,5.0,5.0,https://drive.google.com/open?id=1ZtxWx8jXWaN5EdC9HJFiCgJ8nMtl3sJ_
+78,FD,Direito noturno,2022,Ampla Concorrência (AC),Primeira,74.0,74.5,46.67,677.96,41.0,109.0,107.0,https://drive.google.com/open?id=10Gg-kD7U-oOE_FNKYu2C2TnKRny7QARk
+57,Poli,Engenharia de Minas,2023,Ampla Concorrência (AC),Primeira,78.0,59.0,62.5,693.89,36.0,473.0,58.0,https://drive.google.com/open?id=1W-mBsqpKjxpS5OCh4B0n4kSyiQJ141cR
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2023,Ampla Concorrência (AC),Primeira,78.0,64.5,70.0,737.22,34.5,207.0,134.0,
+55,Poli,Engenharia de Computação,2022,Escola Pública (EP),Primeira,70.0,50.0,70.83,662.04,33.0,700.0,399.0,
+153,IF,Física – Bacharelado noturno,2023,Ampla Concorrência (AC),Segunda,73.0,63.0,29.17,577.59,34.5,197.0,84.0,
+151,ICMC,Ciência de Dados,2023,Ampla Concorrência (AC),Primeira,78.0,64.0,75.0,752.22,42.5,1.0,1.0,https://drive.google.com/open?id=1jl7YM6f_D1rMh-guuQUOw1wWi2jMTZIP
+130,FORP,Odontologia,2023,Escola Pública (EP),Primeira,61.0,55.0,30.83,512.04,33.0,58.0,58.0,
+71,ESALQ,Bacharelado em Administração,2023,Ampla Concorrência (AC),Primeira,64.0,63.0,35.0,563.7,37.0,5.0,5.0,
+112,FFLCH,Letras – Bach./Lic. noturno,2023,Ampla Concorrência (AC),Primeira,61.0,51.0,44.17,543.15,27.5,300.0,293.0,https://drive.google.com/open?id=1d1CJwXuWvlC5jta6Ig30pMjSztN4LhaG
+57,Poli,Engenharia de Minas,2023,Escola Pública (EP),Terceira,56.0,52.5,20.0,449.07,32.5,1750.0,196.0,
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2022,Escola Pública (EP),Lista de espera - Primeira,53.0,50.0,28.0,458.0,26.0,1720.0,1046.0,
+0,EACH,Bacharelado em Sistemas de Informação diurno,2023,Ampla Concorrência (AC),Primeira,82.0,48.0,73.33,708.15,25.0,44.0,29.0,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2023,Escola Pública (EP),Lista de espera - Primeira,61.0,58.5,24.17,501.48,35.0,603.0,277.0,
+142,IAG,Bacharelado em Astronomia,2023,Escola Pública (EP),Primeira,66.0,56.0,35.83,550.56,31.5,263.0,104.0,https://drive.google.com/open?id=16no8z0BZ1zp24LCybWIXCmbhpgvnDxXx
+143,IB,Ciências Biológicas - Bach./Lic. diurno,2022,Ampla Concorrência (AC),Primeira,79.0,68.0,78.33,780.37,36.5,1.0,1.0,https://drive.google.com/open?id=1T8effqD_DqSm4kxE6yhyfghxwk3_6Txq
+143,IB,Ciências Biológicas - Bach./Lic integral,2023,Ampla Concorrência (AC),Primeira,73.0,55.5,61.67,660.93,31.0,23.0,23.0,
+144,IB,Ciências Biológicas - Bach./Lic. noturno,2023,Ampla Concorrência (AC),Segunda,63.0,55.5,50.83,587.78,31.5,62.0,57.0,https://drive.google.com/open?id=1byHsKcK7357ImCMoxd45VkOA2pWakRPc
+143,IB,Ciências Biológicas - Bach./Lic. diurno,2023,Ampla Concorrência (AC),Primeira,73.0,67.0,53.33,671.48,41.5,18.0,18.0,https://drive.google.com/open?id=1BQD7NuBdantVM0U6ufvQWliIZOETEgM4
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2023,Ampla Concorrência (AC),Lista de espera - Primeira,77.0,56.0,66.67,694.07,33.5,472.0,115.0,
+172,IQ,Química – Bacharelado e Licenciatura – Noturno (Bach. – Ênfase em Química),2023,Escola Pública (EP),Primeira,71.0,63.0,52.5,647.96,36.0,14.0,13.0,
+162,IME,Bacharelado em Ciência da Computação,2022,Escola Pública (EP),Segunda,68.0,49.5,51.67,589.07,33.5,304.0,287.0,
+110,FFLCH,História - Bach./Lic. noturno,2023,Ampla Concorrência (AC),Primeira,67.0,62.0,37.0,579.81,40.0,116.0,113.0,https://drive.google.com/open?id=1D6qZdnPJsC-58XOhddrJyGO5uVSYvhPB
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2023,Escola Pública (EP),Lista de espera - Segunda,42.0,45.0,27.5,397.22,30.0,1886.0,1142.0,
+55,Poli,Engenharia de Computação,2023,Ampla Concorrência (AC),Terceira,80.0,67.5,73.33,765.74,38.0,97.0,62.0,
+83,FEA,Bacharelado em Ciências Contábeis,2023,Escola Pública (EP),Lista de espera - Segunda,50.0,42.0,26.0,411.0,27.0,1376.0,1376.0,
+55,Poli,Engenharia de Computação,2023,Ampla Concorrência (AC),Primeira,74.0,58.0,100.0,800.74,35.5,36.0,23.0,
+81,FEA,Bacharelado em Administração,2023,Ampla Concorrência (AC),Lista de espera - Primeira,71.0,61.0,36.67,588.52,33.0,311.0,218.0,
+54,Poli,Engenharia Civil,2023,Ampla Concorrência (AC),Primeira,78.0,69.5,59.17,717.78,39.0,300.0,84.0,
+25,ECA,Bacharelado em Jornalismo diurno,2023,Escola Pública (EP),Primeira,69.0,64.5,57.5,662.22,38.0,18.0,18.0,https://drive.google.com/open?id=1rPyb0yQJ2Sed4ascFX2Hv5dL6ES54qTj
+80,FEA,Bacharelado em Administração,2023,Ampla Concorrência (AC),Lista de espera - Primeira,64.0,60.5,40.8,574.81,36.0,393.0,272.0,
+98,FFCLRP,Ciências Biológicas – Bacharelado e Licenciatura,2023,Ampla Concorrência (AC),Lista de espera - Primeira,64.0,57.0,37.5,552.04,38.0,24.0,24.0,
+0,EACH,Bacharelado em Sistemas de Informação diurno,2023,Ampla Concorrência (AC),Primeira,78.0,67.5,51.67,686.11,36.0,68.0,42.0,
+56,Poli,Engenharia de Materiais; Engenharia Metalúrgica; Engenharia Nuclear,2023,Ampla Concorrência (AC),Primeira,73.0,68.0,64.17,710.93,40.0,351.0,86.0,
+88,FEARP,Ciências Contábeis - Bach.,2023,Ampla Concorrência (AC),Primeira,66.0,55.0,33.0,536.0,26.0,73.0,33.0,
+153,IF,Física – Bacharelado noturno,2022,Ampla Concorrência (AC),Primeira,72.0,53.5,55.0,628.33,26.5,110.0,47.0,
+125,FO,Odontologia diurno,2023,Escola Pública (EP),Primeira,64.0,63.5,36.67,570.93,43.0,96.0,96.0,
+143,IB,Ciências Biológicas - Bach./Lic. diurno,2022,Escola Pública (EP),Primeira,62.0,62.5,43.33,582.41,34.5,10.0,10.0,https://drive.google.com/open?id=1ozVK8N0wsnofggWmlnYNn60Rfa5n_Fvp
+146,ICMC,Ciências de Computação,2022,Ampla Concorrência (AC),Lista de espera - Primeira,68.0,62.0,57.5,650.19,36.5,119.0,101.0,
+63,Poli,Engenharia Naval,2022,Ampla Concorrência (AC),Primeira,75.0,61.0,68.33,708.89,36.5,500.0,52.0,
+162,IME,Bacharelado em Ciência da Computação,2023,Escola Pública (EP),Segunda,64.0,64.0,45.0,604.0,38.0,257.0,244.0,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2020,"Pretos, Pardos e Indígenas (PPI)",Primeira,49.0,56.0,20.83,437.59,31.5,12.0,10.0,
+38,EEL,Engenharia Química diruno,2023,Ampla Concorrência (AC),Primeira,76.0,62.5,70.0,723.15,39.5,5.0,5.0,
+137,FZEA,Zootecnia,2022,Ampla Concorrência (AC),Primeira,57.0,57.0,32.5,509.44,35.0,2.0,2.0,
+169,IO,Bacharelado em Oceanografia,2022,Ampla Concorrência (AC),Primeira,64.0,54.5,31.67,524.26,30.0,15.0,15.0,https://drive.google.com/open?id=14AUmg79yMsydPOC6FFYvtzUR93vels_s
+79,FDRP,Direito,2023,Ampla Concorrência (AC),Primeira,68.0,70.5,60.83,689.63,45.0,85.0,83.0,https://drive.google.com/open?id=1dKxztgrNAjW3p-FQSSzEnWRbEe45d6kY
+172,IQ,Química – Bacharelado e Licenciatura – Noturno (Bach. – Ênfase em Química),2022,Ampla Concorrência (AC),Primeira,63.0,50.5,70.83,637.78,27.0,30.0,29.0,https://drive.google.com/open?id=1SYmF-tGHUSvHI7J3n_9qQnFBMrj7L5BM
+79,FDRP,Direito,2023,Ampla Concorrência (AC),Primeira,77.0,85.0,52.0,745.0,46.0,12.0,12.0,
+162,IME,Bacharelado em Ciência da Computação,2023,Escola Pública (EP),Primeira,79.0,68.5,55.0,704.26,43.0,50.0,50.0,
+111,FFLCH,Letras – Bach./Lic. diurno,2021,Ampla Concorrência (AC),Lista de espera - Primeira,50.0,47.0,43.33,486.3,28.0,478.0,473.0,
+77,FD,Direito diurno,2022,Ampla Concorrência (AC),Primeira,70.0,82.0,65.0,713.0,40.0,61.0,60.0,
+80,FEA,Bacharelado em Administração,2022,Ampla Concorrência (AC),Primeira,65.0,60.0,49.179,604.63,34.5,232.0,163.0,
+54,Poli,Engenharia Civil,2019,Escola Pública (EP),Lista de espera - Primeira,44.0,49.5,51.67,500.19,31.5,202.0,74.0,
+24,ECA,Bach. Com. Social: Editoração,2023,Ampla Concorrência (AC),Primeira,68.0,73.5,63.33,707.96,46.5,1.0,1.0,
+109,FFLCH,História - Bach./Lic. diurno,2023,Ampla Concorrência (AC),Primeira,65.0,67.0,58.0,658.0,38.0,35.0,33.0,https://drive.google.com/open?id=1fmiC3mE0H1qED0lDlVdvSRuKPB3PLEHV
+60,Poli,"Engenharia Elétrica (Ênfases: Automação e Controle, Energia e Automação Elétricas, Eletrônica e Sistemas Computacionais, Telecomunicações)",2021,Escola Pública (EP),Segunda,52.0,56.33,52.5,555.37,33.33,188.0,119.0,https://drive.google.com/open?id=1skGFG3zJjFBD0Xij2G19bgtGMEXXuree
+75,FCF,Farmácia noturno,2023,Ampla Concorrência (AC),Primeira,67.0,65.0,56.67,653.7,38.0,69.0,68.0,https://drive.google.com/open?id=1xKlgzZ_FwAS1N1uI0YuxtcWLHkaczOSF
+111,FFLCH,Letras – Bach./Lic. diurno,2023,Escola Pública (EP),Primeira,48.0,56.0,39.17,495.0,37.5,517.0,510.0,
 4,EACH,Bacharelado em Biotecnologia,2022,Ampla Concorrência (AC),Primeira,69.0,54.5,53.33,615.0,34.5,,24.0,
 4,EACH,Bacharelado em Biotecnologia,2022,Ampla Concorrência (AC),Primeira,68.0,41.0,61.67,594.07,28.0,,28.0,
 6,EACH,Curso de Graduação em Obstetrícia,2022,Escola Pública (EP),Primeira,51.0,56.5,34.17,491.11,29.5,,8.0,

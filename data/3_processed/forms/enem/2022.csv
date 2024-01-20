@@ -18,3 +18,16 @@ id,unidade,curso,ano,modalidade,chamada,nota_linguagens,nota_humanas,nota_nature
 81,FEA,Bacharelado em Administração,2022,Ampla Concorrência (AC),Primeira,648.2,745.5,720.3,822.0,920,777.55,160,200,160,200,200,
 55,Poli,Engenharia de Computação,2022,Ampla Concorrência (AC),Primeira,715.0,816.1,828.5,910.9,960,844.27,160,200,200,200,200,https://drive.google.com/open?id=1mR4HmdmwGubkfDo6U26ssZ4ZRQi01hrb
 90,FEARP,Bacharelado em Finanças e Negócios,2022,Ampla Concorrência (AC),Terceira,615.0,699.0,623.0,778.0,860,715.0,160,200,160,160,180,https://drive.google.com/open?id=1fY8Mo7__igOIg_DinYuRMKvutenErVSv
+14,EACH,Marketing diurno,2022,Ampla Concorrência (AC),Primeira,605.0,702.0,687.0,908.0,920,764.0,160,200,200,200,160,
+143,IB,Ciências Biológicas - Bach./Lic. diurno,2022,Escola Pública (EP),Primeira,603.5,714.3,657.4,752.8,980,752.8,180,200,200,200,200,
+47,EESC,Engenharia de Produção,2022,Ampla Concorrência (AC),Primeira,677.7,690.9,687.0,867.3,960,799.52,160,200,200,200,200,https://drive.google.com/open?id=1L-LuDvI-FM74NYvZ_dzUktCYWdEX4qJS
+139,IAU,Arquitetura e Urbanismo,2022,Ampla Concorrência (AC),Lista de espera - Segunda,646.1,678.0,603.8,743.4,940,755.88,160,200,180,200,200,
+29,ECA,Curso Superior do Audiovisual,2022,Escola Pública (EP),Primeira,657.8,643.1,595.4,812.8,980,793.0,180,200,200,200,200,https://drive.google.com/open?id=1qYEVtMiTUMH-bzcfdYkee2zyqsyPoguu
+1,EACH,Bacharelado em Sistemas de Informação noturno,2020,"Pretos, Pardos e Indígenas (PPI)",Lista de espera - Primeira,584.0,518.0,473.0,680.0,900,739.0,,,,,,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2021,Escola Pública (EP),Primeira,616.5,597.6,606.8,670.3,840,673.51,160,200,140,160,180,https://drive.google.com/open?id=1A_6pvll36_WOS0ix_q1gs9sBqoU6RKi5
+85,FEA,Bacharelado em Ciências Econômicas,2023,Escola Pública (EP),Primeira,696.6,721.5,704.4,853.8,900,775.26,,,,,,
+53,Poli,Engenharia Ambiental,2023,Ampla Concorrência (AC),Lista de espera - Primeira,630.7,656.1,703.1,919.7,920,769.0,,,,,,
+155,IF,Física – Licenciatura noturno,2023,Escola Pública (EP),Segunda,617.0,574.0,629.0,780.0,760,691.0,120,200,120,160,160,
+153,IF,Física – Bacharelado noturno,2023,Escola Pública (EP),Lista de espera - Segunda,607.0,571.0,596.0,699.0,760,661.0,120,200,120,140,180,https://drive.google.com/open?id=11ID3ktaX2ATsVbNloSuGr7Pab10zyjvi
+57,Poli,Engenharia de Minas,2023,Ampla Concorrência (AC),Primeira,678.5,682.4,716.4,908.8,960,850.46,180,200,180,200,200,
+1,EACH,Bacharelado em Sistemas de Informação noturno,2022,"Pretos, Pardos e Indígenas (PPI)",Segunda,596.0,614.0,582.0,693.0,900,689.0,,,,,,
